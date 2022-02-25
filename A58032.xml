@@ -1,0 +1,1343 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The hue and cry of conscience after secure sinners; or The alarm of conscience in order to the discovery of hidden guilt by John Ryther minister of the gospel</title>
+            <author>Ryther, John, 1634?-1681.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 121 KB of XML-encoded text transcribed from 82 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58032</idno>
+            <idno type="STC">Wing R2439</idno>
+            <idno type="STC">ESTC R218576</idno>
+            <idno type="EEBO-CITATION">99830157</idno>
+            <idno type="PROQUEST">99830157</idno>
+            <idno type="VID">34607</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58032)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34607)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2018:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The hue and cry of conscience after secure sinners; or The alarm of conscience in order to the discovery of hidden guilt by John Ryther minister of the gospel</title>
+                  <author>Ryther, John, 1634?-1681.</author>
+               </titleStmt>
+               <extent>[22], 140 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by J.D. for Iohn White, at the Three Bibles in the Minories,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Copy tightly bound.</note>
+                  <note>Reproduction of the original at the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian literature --  Early works to 1800.</term>
+               <term>Repentance --  Early works to 1800.</term>
+               <term>Guilt --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:34607:1"/>
+            <pb facs="tcp:34607:1" rendition="simple:additions"/>
+            <p>THE HUE and CRY OF CONSCIENCE AFTER Secure Sinners; OR THE ALARM of CONSCIENCE In order to the Diſcovery of HIDDEN GUILT</p>
+            <q>
+               <p>The Heaven ſhall reveal his Iniquity, and the Earth ſhall riſe up againſt him.</p>
+               <bibl>
+                  <hi>Job 20.27</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>Thou haſt ſet our Iniquities before thee, our ſecret Sins in the light of thy Countenance</p>
+               <bibl>
+                  <hi>Pſal. 90.8.</hi>
+               </bibl>
+            </q>
+            <p>By <hi>JOHN RYTHER</hi> Miniſter of the Goſpel.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. D.</hi> for <hi>Iohn White,</hi> at the Three Bibles in the <hi>Minories,</hi> 1680.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:34607:2"/>
+            <pb facs="tcp:34607:2"/>
+            <head>TO THE Serious and Impartial READER.</head>
+            <p>THe preſent Day cannot but be looked upon to be an evil Day, (even by thoſe who have but their Eyes half opened.) That which makes a Day evil, is the Sin of the Day; which brings on the dangers of the Day, and God's threatnings to cauſe <hi>our Sun to go down at Noon, and to darken the earth in the clear
+<pb facs="tcp:34607:3"/>Day. And I will turn your Feaſts into Mourning, and all your Songs into Lamenta<g ref="char:EOLhyphen"/>tions; and I will bring up Sackcloth upon all Loins, and Baldneſs upon every Head; and I will make it as the mourning of an only Son, and the end thereof as a bitter Day.</hi> Now when the evils of our Sins abound among us, and the evils of God's Threatnings impend over us, it is a ſeaſon<g ref="char:EOLhyphen"/>able time to contribute to a check of the one, and to a preventing of the other; which muſt be by ſome awakening, or ſearching Calls and Crys to ſleepy and drowzy Conſciences, which is the ſole Deſign of this ſmall Treatiſe.</p>
+            <p>Three ſorts of Readers it is like to fall into the Hands of.</p>
+            <pb facs="tcp:34607:3"/>
+            <p n="1">
+               <hi>1.</hi> Of awakened or it may be ſtartled Conſciences, but half awakened. Or,</p>
+            <p n="2">
+               <hi>2.</hi> Into the hands of ſuch who are ſprinkled from an evil Conſcience. Or,</p>
+            <p n="3">
+               <hi>3.</hi> Into the hands of ſuch whoſe Conſciences are ſeared.</p>
+            <p>Now for the firſt of theſe, I would offer ſome things to ſe<g ref="char:EOLhyphen"/>rious Conſideration. <hi>1.</hi> What<g ref="char:EOLhyphen"/>ever thou find'ſt here to concern thee, do not put it off: Know, is a renewed Call of God to thee, and ſay, as in that caſe, <hi>Lo this we have fearched,</hi>
+               <note place="margin">Job 5.27.</note> 
+               <hi>ſo it is, hear it, and know it for thy good:</hi> [Or as it is in the <hi>Hebrew</hi>] <hi>for thy ſelf.</hi> Know it to a practical and pro<g ref="char:EOLhyphen"/>fitable improvement of it. Doſt thou know what thou mayſt find in following the Search? Hadſt not thou better ſearch Truth,
+<pb facs="tcp:34607:4"/>to ſet thee upon a diligent ſearch for Guilt, that hath laid long hid, than let God find it out to thy ſhame, ſorrow, and con<g ref="char:EOLhyphen"/>fuſion of Face? O, be not thou troubled that thy Conſcience is ſtartled, and begins to fly in thy Face! Know now, it is a Call of Chriſt,<note place="margin">Epheſ 5.14.</note> ſaying, <hi>Awake thou that ſleepeſt, and ariſe from the Dead, and Chriſt ſhall give thee Light.</hi> Little do Sinners know the danger of putting off Chriſt's renewed Calls.</p>
+            <p n="2">
+               <hi>2.</hi> Carry what concerns thee in this Treatiſe, to God in Prayer: Conviction looks well, when it puts upon Supplication. O, this is the great Reaſon, why ſo many awakenings by the Miniſtry of the Word, or by Providential Diſpenſations, die and come to nothing, becauſe they
+<pb facs="tcp:34607:4"/>are not prayed over. O, how hard is it to bring guilty obſti<g ref="char:EOLhyphen"/>nate Sinners upon their Knees! We find when <hi>Ephraim</hi> be<g ref="char:EOLhyphen"/>moaned himſelf, and lay under Conviction, he then preſently fell on praying:<note place="margin">Jer. 31.18.</note> 
+               <hi>Turn thou me, and I ſhall be turned; for thou art the Lord, my God.</hi> O Sinners! know that ſuch Convictions as are not attended with Prayer, will but prove aggravations of your Sin and Guilt another day. As ſoon as ever God had wrought throughly upon <hi>Paul,</hi> it was ſaid <hi>Behold, he prayeth.</hi> Pray<g ref="char:EOLhyphen"/>er is the firſt breath of the new Creature.</p>
+            <p n="3">
+               <hi>3.</hi> What concerns thee here, conſider it well, weigh it in the ballance of the Sanctuary, prove whether it be according to the ſtandard of the Sanctuary. Poor
+<pb facs="tcp:34607:5"/>Souls hear much, and it may be reade much, but this marrs all, they conſider little: Now it is the conſiderate Reader that is the profitable Reader. <hi>Conſider what thou readeſt,</hi>
+               <note place="margin">2 Tim. 2.7.</note> 
+               <hi>and the Lord give thee un<g ref="char:EOLhyphen"/>derſtanding.</hi>
+            </p>
+            <p n="1">
+               <hi>1.</hi> Conſider the Word thou heareſt, and thou readeſt, ſhall judge thee at the laſt Day: All thou haſt heard, all thou haſt read, ſhall come in as witneſs againſt thee; And canſt thou ſtand before ſuch a Teſtimony?</p>
+            <p n="2">
+               <hi>2.</hi> Conſider thy own Conſci<g ref="char:EOLhyphen"/>ence in that Day will be a thou<g ref="char:EOLhyphen"/>ſand witneſſes: And canſt thou then lift up thy Head when the Books ſhall be opened,<note place="margin">Rev. 20.12.</note> and a<g ref="char:EOLhyphen"/>mongſt the reſt, this ſealed Book of thy own guilty Conſcience? where thy Iniquity that hath been ſewed up, ſhall be brought
+<pb facs="tcp:34607:5"/>to light;<note place="margin">Job 14.1.</note> and thy Tranſgreſſion that hath been ſealed up in a Bag, ſhall be openly detected and diſcovered.</p>
+            <p n="3">
+               <hi>3.</hi> Conſider the Day is ba<g ref="char:EOLhyphen"/>ſtening upon thee, that <hi>the ini<g ref="char:EOLhyphen"/>quities of thy heels ſhall com<g ref="char:EOLhyphen"/>paſs thee about.</hi>
+               <note place="margin">Pſal. 19.5.</note> O how wilt thou, poor Sinner, be entan<g ref="char:EOLhyphen"/>gled and perplexed with thy Sin and Guilt! Some under<g ref="char:EOLhyphen"/>ſtand by Heel, the laſt part of a Mans life towards his Death; And doth not ſuch a day haſten upon you? O what work will Guilt make in the Conſcience in a day of Diſtreſs! conſider by <hi>Joſeph</hi>'s Brethren.</p>
+            <p n="4">
+               <hi>4.</hi> Conſider how thy Conſci<g ref="char:EOLhyphen"/>ence conſents as thou readeſt. Is not this true, ſays Conſci<g ref="char:EOLhyphen"/>ence? Haſt not thou found and felt it ſo, ſays Conſcience? Is not thy Conſcience put to ſilence
+<pb facs="tcp:34607:6"/>as thou readeſt? Conſider that the Truths are commended to thy Conſcience.</p>
+            <p n="5">
+               <hi>5.</hi> Conſider how ſad it would be for all thy awakenings, all thy touches, all thy impreſſions, all thy Convictions to be loſt at laſt. O Sinners, how will ſuch be condemned out of their own Mouths! Can theſe be loſt, and your Souls ſaved? of all your loſſes you may reckon theſe a<g ref="char:EOLhyphen"/>mong your grea eſt loſſes.</p>
+            <p n="4">
+               <hi>4.</hi> What concerns thee here, remark, and remember; you may read much, and remark lit<g ref="char:EOLhyphen"/>tle, and this marrs all you read: this remarking is Conſcience taking Notes, and making Ani<g ref="char:EOLhyphen"/>madverſions upon Truths. You do not bring your Conſciences to reade Books: ſay as you reade, O my Conſcience, mark this! this nearly concerns thee! You
+<pb facs="tcp:34607:6"/>know Men mark and obſerve what concerns them.</p>
+            <p>The ſecond ſort of Readers this little Tract may fall into their Hands, are ſuch who are ſprinkled from an evil Conſci<g ref="char:EOLhyphen"/>ence, upon whoſe Door-poſts the Blood of the Paſchal Lamb is ſprinkled; who with <hi>Paul,</hi> dai<g ref="char:EOLhyphen"/>ly exerciſe themſelves in all good Conſcience, both towards God and Man.</p>
+            <p n="1">
+               <hi>1.</hi> O do you reade, and bleſs God that you have to all Cha<g ref="char:EOLhyphen"/>lenges and Queſtions, the an<g ref="char:EOLhyphen"/>ſwer of a good Conſcience; that you can ſilence all your Objecti<g ref="char:EOLhyphen"/>ons and Accuſations by Faith in the Blood of Chriſt; and can ſing that triumphant Song even in your Militant State,<note place="margin">Rom. 8.33.</note> 
+               <hi>Who ſhall lay any thing to the charge of God's Elect?</hi> &amp;c. Can every one ſay ſo? can every Profeſſon
+<pb facs="tcp:34607:7"/>ſay ſo? can every Child of God ſay ſo? Are there not many that have been a long time learning to ſing this Song, and have not learnt it to this day?</p>
+            <p n="2">
+               <hi>2.</hi> Let this be your care to preſerve the tenderneſs of your Conſciences. You may by guilt (Sirs) benum your Conſciences, as you find by what you here reade: A ſmiting checking Con<g ref="char:EOLhyphen"/>ſcience is a very great Mercy, tho little priz'd, or eſteemed by the moſt.</p>
+            <p n="3">
+               <hi>3.</hi> Remember how bitter Sin was to you, before you came to know what peace of Conſcience meant, how many a bitter Tear it fetched from your Eyes? how many deep and bitter ſighs from your Hearts? yea, even to the breaking of your Loins? O what Gall and Wormwood was it to your Souls! How of<g ref="char:EOLhyphen"/>ten
+<pb facs="tcp:34607:7"/>did you ſay, will it not be bitterneſs in the latter end? How often did you take up that Language to your own Souls, This is thy way and thy doings? becauſe it is bitter, it reaches to thy Heart, <hi>&amp;c.</hi> But yet as you reade, do you remember how ſweetly all this ended, in God's ſpeaking peace to your Souls, and you no more turning to Folly.</p>
+            <p n="4">
+               <hi>4.</hi> Tremble to think of loſing the Peace that God hath ſpoken to your Conſciences, under ſenſe of Guilt, when you meet with that guilt which concerns you. O, let the loſs of your peace be like Hell to your Souls! O, blot not that Pardon your Redeemer hath written ſo legibly in his own Blood! Blurring off your Pardon may coſt you dear.</p>
+            <pb facs="tcp:34607:8"/>
+            <p n="5">
+               <hi>5.</hi> Be afraid of the leaſt Guilt, the leaſt Sin, becauſe it is Sin. When Satan cannot pre<g ref="char:EOLhyphen"/>vail with you to venture upon greater Sins, then he will tempt to leſſer Sins: But know you not that the leaſt Sin is Soul. defiling, yea, the leaſt Sin is Soul damning, unleſs the Blood of Chriſt ſprinkle your Conſci<g ref="char:EOLhyphen"/>ences? How have many Souls groaned under the guilt of ſuch Sins for many Years, when God hath ſet them home upon your Conſciences?</p>
+            <p>The third ſort of Readers, into whoſe hands this little piece may fall, are ſuch whoſe Con<g ref="char:EOLhyphen"/>ſciences are ſeared (ſuch the Apoſtle mentions) theſe are in ſenſible,<note place="margin">1 Tim. 4.2.</note> Truths make no im<g ref="char:EOLhyphen"/>preſſion upon them,<note place="margin">Epheſ. 4.19.</note> they are be nummed: The Apoſtle expreſſes it, by being paſt feeling. And
+<pb facs="tcp:34607:8"/>when they are arrived at ſuch an height of Sin, what do ſuch do? The Text tells you, <hi>They commit all Uncleanneſs with greedineſs.</hi> Now to ſuch I would ſay,</p>
+            <p n="1">
+               <hi>1.</hi> The day is coming, thy ſeared and inſenſible Conſcience ſhall condemn, and riſe up in judgment againſt thee. And, O, then who can ſtand before the witneſs of an awakned Con<g ref="char:EOLhyphen"/>ſcience! You may as well think to dwell with everlaſting Burn<g ref="char:EOLhyphen"/>ings, and tormenting Flames, as avoid or evade the Teſtimony of a tormented and awakened Conſcience. Nay, know that ſometimes this Hell hath begun here. Will not <hi>Cain</hi> tell you, while he crys out, <hi>My puniſh<g ref="char:EOLhyphen"/>ment is greater than I can bear,</hi> No torment like the tor<g ref="char:EOLhyphen"/>ment of a guilty Conſcience?
+<pb facs="tcp:34607:9"/>Nay, ask <hi>Adam,</hi> and he will tell you when he was afraid, and hid himſelf from the preſence of God. O, Guilt, you know, cannot endure the preſence of the Judge. O, doth not <hi>Pa<g ref="char:EOLhyphen"/>ſhur</hi>'s caſe ſpeak forth this truth! What a terror to himſelf was he? Did not <hi>Judas</hi> preach this Do<g ref="char:EOLhyphen"/>ctrine when he cri'd out, <hi>I have finned in betraying innocent Blood. Nero,</hi> that Monſter, when he had killed his Mother <hi>Agrippina,</hi> and his Wife, and ſet <hi>Rome</hi> on fire; after all this Guilt, at laſt felt an Hell in his Conſcience, and could not reſt Day nor Night; ſo that when he died, he cried out, his Mother, Wife, and Father, all will'd him to die. <hi>Richard</hi> the <hi>3d,</hi> O what a guilty tor<g ref="char:EOLhyphen"/>menting Conſcience had he after the Murder of his Nephews in
+<pb facs="tcp:34607:9"/>the Tower? and the Night be<g ref="char:EOLhyphen"/>fore he was ſlain at <hi>Boſworth,</hi> he dreamed he thought all the Devils in Hell were halling him in moſt hideous and ugly Shapes. What ſays Judge <hi>Mor<g ref="char:EOLhyphen"/>gan</hi> to this caſe, after he had unrighteouſly paſſed Sentence upon the Lady <hi>Jane,</hi> afterwards feeling an Hell in his Conſci<g ref="char:EOLhyphen"/>ence, cried out, <hi>O, take away the Lady</hi> Jane, <hi>take away the Lady</hi> Jane! Which made one ſay,
+<q>
+                  <l>The Guilt which from unſeen Pollution ſprings,</l>
+                  <l>Pale ſweating Horror in the Boſom brings.</l>
+               </q>
+            </p>
+            <p n="2">
+               <hi>2.</hi> What tho your Conſciences, be ſeared upon the account of your Guilt being undiſcovered; Yet know, God many times hath
+<pb facs="tcp:34607:10"/>found out Guilt, in an extraor<g ref="char:EOLhyphen"/>dinary way. Providence treads not always the ſame Paths in diſcovering hidden Guilt,<note place="margin">Eccleſ. 10. ult.</note> he can cauſe <hi>a Bird of the Air to car<g ref="char:EOLhyphen"/>ry the Voice, and that which hath Wings to tell the mat<g ref="char:EOLhyphen"/>ter.</hi> He can reveal In quity from Heaven. <hi>The Heavens ſhall reveal his Iniquity,</hi>
+               <note place="margin">Job 20.7.</note> 
+               <hi>and the Earth ſhall riſe up againſt him.</hi> One of our<note n="*" place="margin">Lord St. John.</note> Judges ri<g ref="char:EOLhyphen"/>ding his Circuit of late Years, met with this Paſſage: One being Murdered, and the Mur<g ref="char:EOLhyphen"/>derer not being diſcovered, the Murderer being brought to the dead Corps, the Corps opened his Eyes at the Murderer, and fell into a Sweat. This the Judge related to a godly Mini<g ref="char:EOLhyphen"/>ſter then living. Hiſtory is full of ſuch Providential bring<g ref="char:EOLhyphen"/>ing
+<pb facs="tcp:34607:10"/>hidden Guilt to light.</p>
+            <p n="3">
+               <hi>3.</hi> Know, poor Sinners, while your Conſciences are ſear<g ref="char:EOLhyphen"/>ed, you are Satans marked Slaves. In Ancient Times they uſed to mark their Slaves; and the Holy Ghoſt alludes to it, when we reade of the Mark of the Beaſt in the Forehead, or in the Hand. This Searing-Iron puts Satan's Brand upon you, you are his. And, O poor Sinners, did you but, as you reade this, believe it, what reſtleſs Days and Nights would you have, until you had ſome hopes of your eſcape from this Houſe of Bondage? Can you be content to live and die in the Devil's Drudgery? Can you be content to be his bored and marked Slaves, his Servants for ever? Then you muſt have
+<pb facs="tcp:34607:11"/>the Wages of ſuch Servants, and ſuch a Service. <hi>The Wa<g ref="char:EOLhyphen"/>ges of Sin is Death.</hi> Death Spiritual, Death Eternal.</p>
+            <p n="4">
+               <hi>4.</hi> Know, poor Sinners, there is not ſo much as one ſear<g ref="char:EOLhyphen"/>ed Conſcience in Hell; they are ſadly awakened that are awa<g ref="char:EOLhyphen"/>kened with Hells flames about their Ears. If you could hear the Crys and Shrieks of tor<g ref="char:EOLhyphen"/>mented Souls, you would ſay Hell is full of ſenſe of Guilt. But alas, now it is too late, then Repentance is too late. They are all ſaying, This and this hath their own Ways and Do<g ref="char:EOLhyphen"/>ings procured unto them. O, it is bitter! O, it reaches to their Heart! But, O Sinners, this ſhould have been ſooner!</p>
+            <p n="5">
+               <hi>5.</hi> Know, poor Sinners, what you reade here, if you go
+<pb facs="tcp:34607:11"/>on in Sin, you will feel ano<g ref="char:EOLhyphen"/>ther day for an aggravation of Sin, yea, and Condemnation too. What, reade what may prevent your Ruine, and yet run on! What, ſplit your Souls upon theſe Rocks and Sands, you ſaw ſuch Sea<g ref="char:EOLhyphen"/>marks before to keep you off? O, is not this to be wilful in your Perdition? Is not this to run headlong to Deſtruction? O Sinners, hear God calling out of Heaven to you by his Servants Preaching to you, Printing for you, why will you die? why will you periſh? why will you run on in Sin, when you know that <hi>when Luſt hath conceived, it brings forth Sin,<note place="margin">Jam. 1.15.</note> and Sin when it is finiſhed, bringeth forth Death.</hi> O then, poor Soul, Reade, and Hear,
+<pb facs="tcp:34607:12"/>and Pray, that thou may'ſt pro<g ref="char:EOLhyphen"/>ſit by all, bleſs God for all, and bring forth the Fruits of all.</p>
+            <closer>
+               <signed>
+                  <hi>Thus prays thy Servant for thy Soul,</hi> J. R.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:34607:12"/>
+            <epigraph>
+               <bibl>
+                  <hi>Gen. 42.21.</hi>
+               </bibl>
+               <q>
+                  <p>And they ſaid one unto another, Verily we are guilty concern<g ref="char:EOLhyphen"/>ing our Brother, in that we ſaw the anguiſh of his Soul, when he beſought us, and we would not hear: therefore this diſtreſs is come upon us.</p>
+               </q>
+            </epigraph>
+            <p>THe Text refers to the Tragical ſtory of <hi>Jo<g ref="char:EOLhyphen"/>ſephs</hi> ſale by his Bre<g ref="char:EOLhyphen"/>thren. The occaſion of which ſeverity towards him, you have mentioned, <hi>(viz.)</hi> Their envy to him upon the account of the Dream he had of his Advancement and Prefer<g ref="char:EOLhyphen"/>ment above them. And like<g ref="char:EOLhyphen"/>wiſe their way they took to
+<pb n="2" facs="tcp:34607:13"/>prevent the accompliſhment of his Dream, <hi>(viz.)</hi> Their ſelling of him, tho this was the way to bring it to paſs: <hi>Therefore</hi> (ſays he) <hi>it was not you, but God that ſent me hi<g ref="char:EOLhyphen"/>ther.</hi>— It is to be obſerved, that the Ways and Methods God takes many times to bring to paſs his Deſigns, are ſtrange and improbable to us. This was a moſt unlikely way in an Eye of Reaſon to <hi>Joſeph</hi>'s advancement, yet it was God's way.</p>
+            <p>When <hi>Joſeph</hi> was advan<g ref="char:EOLhyphen"/>ced, the Lord brings a Fa<g ref="char:EOLhyphen"/>mine upon <hi>Canaan,</hi> the Land of his Father and Brethren, and they came now down to <hi>Egypt</hi> to buy Corn; and lit<g ref="char:EOLhyphen"/>tle did they know it was their ſold Brother <hi>Joſeph</hi> that they bowed to for Bread, accord<g ref="char:EOLhyphen"/>ing
+<pb n="3" facs="tcp:34607:13"/>to his Dream, in the bow<g ref="char:EOLhyphen"/>ing of the Sheaves. God now brings Affliction upon them, and <hi>Joſeph</hi> he deals roughly with them, by way of Probation and Temptati<g ref="char:EOLhyphen"/>on, and now they find them<g ref="char:EOLhyphen"/>ſelves bryer'd, and plun<g ref="char:EOLhyphen"/>ged into a pit of Diſtreſs. They all joyntly reflect upon themſelves, to ſearch and make a diſcovery of the Mat<g ref="char:EOLhyphen"/>ter, as the Text tells us.</p>
+            <p>In which we have 1. Their Reflection.</p>
+            <p n="2">2. We have the Occaſion of it.</p>
+            <p n="1">1. We have their Self-Reflection and Accuſation: <hi>And they ſaid one to another, We are verily guilty,</hi> &amp;c. (As one ſays well upon it). We have here the force of Con<g ref="char:EOLhyphen"/>ſcience, and the fruits of Af<g ref="char:EOLhyphen"/>fliction.
+<pb n="4" facs="tcp:34607:14"/>Conſcience calling old Sins to a new Reckoning; faithful in Recording, and fearful in Accuſing.</p>
+            <p n="2">2. We have the occaſion of it. <hi>Joſeph</hi> handling them ſe<g ref="char:EOLhyphen"/>verely, and putting them in Ward three days, and bind<g ref="char:EOLhyphen"/>ing them to the terms of bringing down their younger Brother: which they knew were hard Terms, becauſe their Father's Life was bound up in him.</p>
+            <p n="3">3. We have farther in the Text, their Juſtification of God in all this: <hi>Therefore this Diſtreſs is come upon us.</hi>— O now the Lord hath found us out, and is reckoning with us for our guilt, and all his Procedures with us are very Righteous, in what he ſuffers to come upon us.</p>
+            <pb n="5" facs="tcp:34607:14"/>
+            <p>The Reflection is that part of the Text, I principally aim at.</p>
+            <p n="1">I. We have the Reflecti<g ref="char:EOLhyphen"/>on it ſelf: <hi>In that we ſaw the Anguiſh of his Soul, when he beſought us.</hi> O now Con<g ref="char:EOLhyphen"/>ſcience is buſie and active! O now their Guilt lies up<g ref="char:EOLhyphen"/>permoſt, and they preſently reflect upon it.— As if they ſhould ſay, O what hard Hearts had we to him in his diſtreſs! O what bloody cruel Brethren were we to him! What Wretches were we to ſin againſt the Law of Na<g ref="char:EOLhyphen"/>ture, againſt the Law of God, againſt our own Conſciences! Here is an Aſſeveration in the Accuſation, <hi>Verily we are guil<g ref="char:EOLhyphen"/>ty;</hi> and it hath a <hi>Verily</hi> writ<g ref="char:EOLhyphen"/>ten upon the head of it. They no ways heſitate, or doubt
+<pb n="6" facs="tcp:34607:15"/>in the leaft about it.</p>
+            <p n="2">2. Here is in the Reflecti<g ref="char:EOLhyphen"/>on, or Accuſation, the ag<g ref="char:EOLhyphen"/>gravation of their Guilt. 1. In that it was to their own Brother; and now this they reflect upon.— <hi>We are guil<g ref="char:EOLhyphen"/>ty concerning our Brother.</hi> It was their own Brother, and ſo a piece of Unnatural Guilt for one Brother to do thus by another. It is not only Guilt, but circumſtances of Guilt, that will fly in the faces of our Conſciences in a day of Diſtreſs.</p>
+            <p n="2">II. Aggravation in it was, that their Eyes did not affect their hearts. <hi>We ſaw the anguiſh of his Soul.</hi> O! now it riſes in their Conſciences.</p>
+            <p n="3">3. Aggravation of Guilt in their Reflection: <hi>He be<g ref="char:EOLhyphen"/>ſought us.</hi> His cries and pray<g ref="char:EOLhyphen"/>ers
+<pb n="7" facs="tcp:34607:15"/>ſhould have pitied and melted their Hearts.</p>
+            <p n="4">4. Aggravation, <hi>We would not hear.</hi> They turned a deaf Ear to their Brother's crys. O! now all this comes freſh to their Minds, in the day of their Diſtreſs.</p>
+            <p n="5">5. Aggravation. It was a deliberate conſulted Caſe. <hi>Come let us kill him.</hi> It was an adviſed Act.</p>
+            <p n="3">III. As we have the Refle<g ref="char:EOLhyphen"/>ction it ſelf, and the Aggra<g ref="char:EOLhyphen"/>vations of it; So alſo we have obſervable, that it was by <hi>joynt</hi> conſent. This Re<g ref="char:EOLhyphen"/>flecting, it was not one or two of them, but <hi>They ſaid one un<g ref="char:EOLhyphen"/>to another.</hi> It was a <hi>joynt</hi> con<g ref="char:EOLhyphen"/>feſſion <hi>(Nemine contradi<g ref="char:EOLhyphen"/>cente)</hi> they differed not in the caſe, their Sentiments were the ſame; therefore they
+<pb n="8" facs="tcp:34607:16"/>jointly conclude, that they were all Guilty concerning their Brother.</p>
+            <p n="4">IV. The occaſion of this joynt Reflection, and Accu<g ref="char:EOLhyphen"/>ſation, was their diſtreſs; <hi>Therefore is this diſtreſs come upon us.</hi>
+            </p>
+            <p>The whole of the Text re<g ref="char:EOLhyphen"/>ſolves into theſe two Practical Truths.</p>
+            <p>
+               <hi>Firſt,</hi> That Guilt will walk in Sinners Conſciences a great while after the Fact committed.</p>
+            <p>
+               <hi>Secondly,</hi> That in a Day of Affliction, Conſcience is often quick and active in its Reflections. Thus it was with them; <hi>Therefore is this Di<g ref="char:EOLhyphen"/>ſtreſs come upon us.</hi>
+            </p>
+            <p n="1">1. Guilt will walk in the
+<pb n="9" facs="tcp:34607:16"/>Conſciences of Sinners a great while after the Fact committed.</p>
+            <p>This is plain from the Text. <hi>Joſeph</hi> had been a great while ſold by his Brethren. <hi>Joſeph</hi> did certainly ſpend many Years in <hi>Potiphar</hi>'s Houſe. Some ſay ten Years, ſome ſay eleven Years, before he was caſt into Priſon. It is true, it is ſaid (<hi>Chap.</hi> 39.7.) af<g ref="char:EOLhyphen"/>ter theſe things, his Maſter's Wife caſt her Eyes upon <hi>Jo<g ref="char:EOLhyphen"/>ſeph.</hi>— (It is thought by ſome Expoſitors, it is a miſtake to reade it) <hi>After theſe things.</hi> The <hi>Latine</hi> Tranſlation reads it, <hi>After many days.</hi> It muſt be reckoned thus, <hi>He was</hi> 17 <hi>years of Age when he was ſold,</hi> Gen. 37.2. And, <hi>He was</hi> 30 <hi>years of Age when he ex<g ref="char:EOLhyphen"/>pounded</hi> Pharaoh<hi>'s Dream, and
+<pb n="10" facs="tcp:34607:17"/>was delivered by him.</hi> So that that time was 13 Years [or 14, as you reckon the <hi>17th</hi> Year when he was ſold ei<g ref="char:EOLhyphen"/>ther begun or ended] <hi>Gen.</hi> 41.46. During which time it is ſuppoſed he ſpent 10 or 11 in the Houſe of <hi>Poti<g ref="char:EOLhyphen"/>phar,</hi> and 3 in the Priſon. Now to theſe 13 Years, from the time of his Sale, to the time of his Advancement by <hi>Pharaoh,</hi> you muſt add the 7 Years of Plenty that was in the Land of <hi>Egypt</hi> before the Famine began, (the time when his Brethren came to him for Corn, and when he dealt thus with them, (as in the Story) <hi>and this diſtreſs was upon them,</hi> mentioned in the Text.) So that the whole, from the Sale to this time, was 20, or 21<note n="*" place="margin">As Dr. <hi>Lightfoot,</hi> and o<g ref="char:EOLhyphen"/>thers,</note> Years, (if
+<pb n="11" facs="tcp:34607:17"/>you reckon the <hi>17th</hi> Year of his Age but to be begun when he was Sold, and the time of this their Diſtreſs, to be the firſt year of the Famine) and 22,<note n="*" place="margin">As Mr. <hi>Burroughs</hi> and o<g ref="char:EOLhyphen"/>thers.</note> if the firſt year of Fa<g ref="char:EOLhyphen"/>mine was expired (as ſome think) ſo that it was now 20 Years at the leaſt, or 22 at the moſt, that this Guilt had ſlept in their Conſciences, and now God awakens it.</p>
+            <p>Guilt now riſes and walks in their Conſciences after ſo many Years being forgotten. As we ſay of Murder, <hi>It will out;</hi> ſo we may ſay of other Sins, <hi>They will out.</hi> That is a great Text: When the two Tribes and an half were to take up their Habitations on the other ſide <hi>Jordan: Moſes</hi> preaches a very home Ser<g ref="char:EOLhyphen"/>men to them, counſelling
+<pb n="12" facs="tcp:34607:18"/>them ſo and ſo, and con<g ref="char:EOLhyphen"/>cludes: <hi>But if you will not do ſo,<note place="margin">Numb. 32.23.</note> behold, you have ſinned a<g ref="char:EOLhyphen"/>gainſt the Lord; and be ſure your Sin will find you out.</hi> A Metaphor (Expoſitors ſay) taken from a Blood-hound, that follows the Thief by ſcent, and diſcovers him. Ah, Sinners, Guilt is a Blood-hound that will purſue you, and in time make a diſcovery of your Sins.<note place="margin">Pſal. 40.12.</note> 
+               <hi>Mine iniqui<g ref="char:EOLhyphen"/>ties</hi> (ſays <hi>David</hi>) <hi>take hold upon me, that I cannot look up;</hi> as a Blood-hound lays hold upon the Thief, which hath ſtolen the Goods, or as an Hue and Cry follows the Male<g ref="char:EOLhyphen"/>factor, and apprehends him, upon which he confeſſes the Fact. It was ſaid to <hi>Gain, If thou doſt well, ſhalt not thou be accepted? But if thou doſt
+<pb n="13" facs="tcp:34607:18"/>ill, Sin lieth at thy Door;— Lurks</hi> as a Blood-hound, rea<g ref="char:EOLhyphen"/>dy to flie upon the guilty Thief, as ſoon as he appears; and many times it lies there a long time together. Guilt lay at <hi>David</hi>'s Door three quarters of a Year. Conſi<g ref="char:EOLhyphen"/>dering <hi>David</hi> was a good Man, conſidering his Fact to be ſo deliberate as it was, it was a long time for ſuch an heinous piece of Guilt to ſleep in his Conſcience, whoſe Heart was once ſo ten<g ref="char:EOLhyphen"/>der, that it ſmote him for the cutting off of <hi>Saul</hi>'s Gar<g ref="char:EOLhyphen"/>ment, his implacable Enemy. Conſcience may reckon with poor Souls after a long time: Chriſt may reckon with Souls many Years after. It is ſaid, <hi>After a long time,</hi>
+               <note place="margin">Mat. 25.19.</note> 
+               <hi>the Lord of the Servants reckoned with
+<pb n="14" facs="tcp:34607:19"/>them.</hi> Long forbearance; as we ſay, is no forgiveneſs.</p>
+            <p>So Conſcience may rec<g ref="char:EOLhyphen"/>kon with a Sinner, and God may reckon with a Sinner af<g ref="char:EOLhyphen"/>ter a long time. It is true, God may keep ſilence, but yet (ſays he) <hi>I will reprove thee, and ſet thy ſins in order before thee.</hi>
+               <note place="margin">Pſal. 50.21.</note> (viz.) <hi>Thy Guilt ſhall come out, I will diſcover all.</hi>
+            </p>
+            <p>But before we proceed fur<g ref="char:EOLhyphen"/>ther, I ſhall premiſe theſe things:</p>
+            <p n="1">1. Guilt may be hid from the World a long time, it may lie <hi>incognito</hi> a long time; the ſhame of many a Perſons nakedneſs may not appear for many a Year. Who can accuſe them? Many Murders have lain hid a long time to<g ref="char:EOLhyphen"/>gether, that God hath brought to light afterwards. Hidden
+<pb n="15" facs="tcp:34607:19"/>works of Darkneſs have been concealed long, as here Guilt for many years lay dormant. It is ſaid at <hi>Paris,</hi> There was a young Woman <hi>Brain'd</hi> with a Hammer: A <hi>Smith</hi> from whom the Hammer was ſtolen was ſuſpected, and tor<g ref="char:EOLhyphen"/>tured till he was Lame. But twenty Years after the Mur<g ref="char:EOLhyphen"/>derer was Arraigned, and Condemned for another Of<g ref="char:EOLhyphen"/>fence, and confeſſed this Mur<g ref="char:EOLhyphen"/>der. Twenty years Guilt was here hid. Many Inſtances might be given in our own Country, but I forbear.</p>
+            <p n="2">2. Guilt may be hid from Conſcience a long time. Con<g ref="char:EOLhyphen"/>ſcience may be ſilent, ſtupid, and inſenſible a great while together. So was <hi>David:</hi> So were theſe Brethren of <hi>Joſeph</hi>'s, ſeveral Years. This
+<pb n="16" facs="tcp:34607:20"/>is evident, until either God by his Word, or Rod, awa<g ref="char:EOLhyphen"/>ken Conſcience, and then it preaches cuttingly to the Soul of a guilty Sinner: Didſt not thou play the Wretch at ſuch a time? and was Drunk at ſuch a time? And didſt not thou commit Filthi<g ref="char:EOLhyphen"/>neſs at ſuch a time? O! Con<g ref="char:EOLhyphen"/>ſcience is a moſt faithful Re<g ref="char:EOLhyphen"/>corder. Thy Sins may lie and lurk a great while in ſe<g ref="char:EOLhyphen"/>cret, yet they will ſpeak out one Day.</p>
+            <p n="3">3. Some Mens Sins are not diſcovered, until the Re<g ref="char:EOLhyphen"/>velation of the Great Day:<note place="margin">1 Tim. 5.24.</note> Some Mens Sins go before hand to Judgment, and ſome follow after. The Hypocri<g ref="char:EOLhyphen"/>ſy of the fooliſh Virgins was not diſcovered until Chriſt came.<note place="margin">1 Cor. 4 5.</note> We reade of the hid<g ref="char:EOLhyphen"/>den
+<pb n="17" facs="tcp:34607:20"/>things of Darkneſs, then being made manifeſt: Then are the ſecrets of Hearts judg<g ref="char:EOLhyphen"/>ed.<note place="margin">Rom. 2.16.</note>
+            </p>
+            <p n="4">4. God, when he hath a deſign of Pardoning-Grace and Mercy upon a poor guilty Sinner, he will diſco<g ref="char:EOLhyphen"/>ver his Guilt. 1. Sometimes to the <hi>World</hi> to ſhame him, in or<g ref="char:EOLhyphen"/>der to humble him. And O <hi>poor</hi> Sinner! hadſt not thou better be ſhamed here in order to be humbled, than damned hereaf<g ref="char:EOLhyphen"/>ter. Ah! many Sinners had gone on in Sin to the <hi>far</hi> end, (it may be as far as Hell) if God had not found them out and ſhamed them. 2. He al<g ref="char:EOLhyphen"/>ways when he hath a deſign of Pardoning-Grace and Mer<g ref="char:EOLhyphen"/>cy, diſcovers hidden Guilt to the Soul it ſelf; he ſearches for it, and finds it out: <hi>For
+<pb n="18" facs="tcp:34607:21"/>the Lord ſets before us even our ſecret ſins.</hi> Thus now he ſet the Conſciences of <hi>Joſeph's</hi> Brethren at work.</p>
+            <p>Now our <hi>Work</hi> will be to en<g ref="char:EOLhyphen"/>quire into the <hi>grounds</hi> to <hi>evince</hi> this truth: That Sin and Guilt often walk in the Conſcien<g ref="char:EOLhyphen"/>ces of Sinners, long after the Fact is committed.<note place="margin">2 Rim. 4.2.</note> 1. Be<g ref="char:EOLhyphen"/>cauſe when the Fact is com<g ref="char:EOLhyphen"/>mitted, the Conſcience is ſeared. We reade of ſeared Conſciences, a Metaphor ta<g ref="char:EOLhyphen"/>ken from that part which is Cauterized by an hot Iron, and ſo made brawny and in<g ref="char:EOLhyphen"/>ſenſible. Alas poor Sinner! it may be Satan's Searing-Iron hath cauterized thy Conſci<g ref="char:EOLhyphen"/>ence,<note place="margin">Epheſ. 4.16.</note> that at preſent it is paſt feeling (as we reade of ſome) and then the Sinner goes on merrily; queſtions nothing,
+<pb n="19" facs="tcp:34607:21"/>all is well with him, he is faſt ſleep, like <hi>Jonah,</hi> with all <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s Guilt upon him. But now <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e Day comes, that God hath deſign of Grace, it may be upon him, or however a de<g ref="char:EOLhyphen"/>ſign of Glorifying himſelf; and now he finds out a way <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> awaken Conſcience, to ſet <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s Guilt before it: <hi>I will ſet by Sins in order before thee.</hi>
+               <note place="margin">Pſal. 50.21.</note> and now the Conſcience be<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ins to be tender, and relent, and confeſs Sin, and ſay as they in the Text: <hi>Verily, we are guilty concerning our Bro<g ref="char:EOLhyphen"/>ther.</hi> O! now Sin begins to heigh heavy upon the Soul, and the Sinner begins to be reſtleſs, being prickt in the ſeart. Now being prickt in the Conſcience, O! how it <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>leeds!</p>
+            <p n="2">2. Reaſon is, Becauſe when
+<pb n="20" facs="tcp:34607:22"/>the Sin was committed, was in hot Blood (as we ſay O! many a poor Soul com<g ref="char:EOLhyphen"/>mitteth that in hot Blood, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> repents of in cold. By h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Blood (I mean) an Hurry and heat of Temptation, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in the hot blood of Paſſion. Is not this hot Blood? In t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> hot blood of Luſt? Is n<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> this hot Blood? O! wh<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> hot Blood was <hi>David</hi> in, whe<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> he in Anger boiled ſo again <hi>Nabal!</hi> And what hot Blood was he in, when he boyle<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſo in Luſt againſt <hi>Bathſheha</hi> But when in cold Blood, h<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> was another manner of Ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Men in cold Blood are confe<g ref="char:EOLhyphen"/>derate, compos'd, and cal<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in Spirits and Thoughts. Now the Guilty Sinner take himſelf to his ſecond thought and, upon a review of the
+<pb n="21" facs="tcp:34607:22"/>Fact; O then Sin begins <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> appear in its proper co<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>urs, and, as in <hi>Paul</hi>'s phraſe,<note place="margin">Rom. 7.9.</note> 
+               <hi>Revives,</hi> hath a <hi>Reſurrecti<g ref="char:EOLhyphen"/>on</hi> in the guilty Man's Con<g ref="char:EOLhyphen"/>ſence. And now as [a <hi>pectrum</hi>] it appears and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>alks, and haunts the Sinner <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>at he cannot be quiet Night or Day. It is with Sinners <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> this reſpect, as it is with a <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>an in a Fight, that gets a <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot, but, being warm, at pre<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt feels it not; but after<g ref="char:EOLhyphen"/>wards the loſs of Blood cauſes <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>m to faint. Perſons enga<g ref="char:EOLhyphen"/>ged in their Temptations, do <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t feel the fiery Darts, that <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>atan ſhoots at them. O! but in cold Blood, how do <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ey cry out! When they <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ome to a feeling of them<g ref="char:EOLhyphen"/>ſelves, what they have done againſt God, and againſt their
+<pb n="22" facs="tcp:34607:23"/>own Souls. Remember Si<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ners, what you commit <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> your hot Blood, you will <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> pent in your cold; and it w<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> walk in your Conſciences af<g ref="char:EOLhyphen"/>terwards:<note place="margin">Prov. 28.23.</note> 
+               <hi>He that rebuketh Man, afterwards ſhall f<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> favour, more than he that fla<g ref="char:EOLhyphen"/>tereth with his Tongue</hi> (ſay <hi>Solomon</hi>) <hi>viz.</hi> When a Man is in cold Blood, compoſed <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> his Spirit, then he couſider this friendly rebuke was <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Love.</p>
+            <p n="3">3. Reaſon, Why Guilt often walks in the Conſci<g ref="char:EOLhyphen"/>ence after the Fact is com<g ref="char:EOLhyphen"/>mitted, is, Becauſe the cu<g ref="char:EOLhyphen"/>ſtom of Sin takes away the conſcience of Sin. Cuſtom in Sin is a very hardni<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> thing, when Sinners have gotten habits of Sin; one <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> being <hi>Drunk,</hi> another of being
+<pb n="23" facs="tcp:34607:23"/>Unclean, another of being Proud; now all ſence of Sin is loſt.<note place="margin">Jer. 13.23.</note> 
+               <hi>Can the</hi> Ethiopian <hi>change his Skin, or the Leo<g ref="char:EOLhyphen"/>pard his Spots? No more can they that are accuſtomed to do evil, do good.</hi> O! but now when the Lord muſters up the Sins of a poor guilty Wretch, in order to bring him to Repentance, then the Lord makes this Sin walk in his Conſcience, and the o<g ref="char:EOLhyphen"/>ther Sin is brought to remem<g ref="char:EOLhyphen"/>brance. O! now the Soul crys out, Men and Brethren, what ſhall I do? My Sin is ever before me. O how was <hi>David</hi> haunted with his guilt! How did it now walk in his Conſcience!</p>
+            <p n="4">4. Reaſon, Sinners are ig<g ref="char:EOLhyphen"/>norant of the ſad effects and conſequences of Sin, until
+<pb n="24" facs="tcp:34607:24"/>afterwards. Alas, many times Sinners know not what they do when they commit Sin. 1. They know not what they do in ſinning a<g ref="char:EOLhyphen"/>gainſt God. <hi>David</hi> in his heat of Temptation did not conſider it, until afterwards <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> then he cried out,<note place="margin">Pſal. 50.4.</note> 
+               <hi>Againſt thee, againſt thee only have <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſinned.</hi> The Prodigal did no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> know what he did, in the go<g ref="char:EOLhyphen"/>ing from his Father; but af<g ref="char:EOLhyphen"/>terwards how did he cry out,<note place="margin">Luke 14.21.</note> 
+               <hi>I have ſinned againſt Heaven, and in thy ſight.</hi> Now Guilt did walk in his Conſcience. Now Sinners cry out with them in the Pro<g ref="char:EOLhyphen"/>phet,<note place="margin">Iſa. 59.12.</note> 
+               <hi>For our Tranſgreſſions are multiplied before thee, and our Sins teſtifie againſt us, for our Tranſgreſſions are with us <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and as for our Iniquities we
+<pb n="25" facs="tcp:34607:24"/>know them.</hi> 2. Now the Eyes of the Sinner being o<g ref="char:EOLhyphen"/>pened, he ſees the ſad conſe<g ref="char:EOLhyphen"/>quences of Sin, that he hath ſinned againſt his own Soul.<note place="margin">Pro. 8.36.</note> 
+               <hi>He that ſinneth, wrongeth his own Soul.</hi> O now, what work is there in the Conſci<g ref="char:EOLhyphen"/>ence, when the poor Guilty Sinner ſees how he hath wronged his own Soul? yea, without Mercy from God, un<g ref="char:EOLhyphen"/>done it for ever? nay, with<g ref="char:EOLhyphen"/>out Repentance, thou haſt not only wronged thy own Soul, but damned thy own Soul. O now the Sinner ſees the reward and wages of Sin is Death. The firſt Death, and the ſecond Death, Tem<g ref="char:EOLhyphen"/>poral Death, and Eternal Death; and now it begins to appear in its proper Colours; but alas this is not until af<g ref="char:EOLhyphen"/>terwards.</p>
+            <pb n="26" facs="tcp:34607:25"/>
+            <p n="5">5. Sin walks after the Fact committed, becauſe the ag<g ref="char:EOLhyphen"/>gravations of Sin ordinarily do not appear until after<g ref="char:EOLhyphen"/>wards. That which makes Sin ſtand up in the Conſci<g ref="char:EOLhyphen"/>ence of a Sinner, is the ag<g ref="char:EOLhyphen"/>gravation of Sin, which is laid before it uſually by Re<g ref="char:EOLhyphen"/>flecting Acts; therefore the work of Repentance is ſet forth, by theſe Reflecting Acts: O, ſays the penitent Sinner,<note place="margin">Jer. 8.6.</note> 
+               <hi>What have I done?</hi> Alas! a Sinner in an hour of Temptation, doth not take time to deliberate upon it, to look into the Aggravations of it; but all theſe come in as After-claps: Theſe are Con<g ref="char:EOLhyphen"/>ſcience's After-claps. Oh! what aggravations undoubt<g ref="char:EOLhyphen"/>edly did appear in this caſe of their Guilt againſt their
+<pb n="27" facs="tcp:34607:25"/>Brother <hi>Joſeph!</hi> 1. They ſpeak like Perſons aggrava<g ref="char:EOLhyphen"/>ting their Guilt. O now they cry out,<note place="margin">Gen. 37.26, 27.</note> 
+               <hi>We are verily guilty concerning our Brother!</hi> O now they ſee the aggravation of their Sin againſt their Bro<g ref="char:EOLhyphen"/>ther, againſt the Law of Re<g ref="char:EOLhyphen"/>lation. To make a Slave of a Stranger, had been a great Sin; but to make a Slave of a Brother, this was an higher aggravation, and we find this conſideration ſtartled <hi>Judah, Let not our hand be upon him, for he is our Brother.</hi> This was a ſin againſt the Law of Nature, and the Law of Re<g ref="char:EOLhyphen"/>lation, as well as the Law of Religion. 2. They have this aggravation of the matter of Fact, it was committed a<g ref="char:EOLhyphen"/>gainſt Warning. Thus you ſee <hi>Reuben</hi> rubs them with it
+<pb n="28" facs="tcp:34607:26"/>in their diſtreſs:<note place="margin">Gen. 42.22.</note> 
+               <hi>Spake I not unto you, ſaying, do not ſin a<g ref="char:EOLhyphen"/>gainſt the Child, and you would not hear? therefore, behold, his Blood is required.</hi> O now (all comes out, as we ſay) to ſin againſt Warning, is a great aggravation: O now, ſays the guilty Conſcience once awa<g ref="char:EOLhyphen"/>kened, how fairly wert thou warned! nay, how frequent<g ref="char:EOLhyphen"/>ly wert thou warned! O ſays Conſcience, did not I ſpeak to thee, and tell thee ſolemn<g ref="char:EOLhyphen"/>ly, thou ſhouldſt anſwer for it, and God would require it? 3. There was this aggravati<g ref="char:EOLhyphen"/>on in it, there was Theft, yea, the higheſt Theft in it; it was Man-ſtealing, (as <hi>Joſeph</hi> ſays himſelf) <hi>I was ſtolen away out of the Land of the</hi> He<g ref="char:EOLhyphen"/>brews.<note place="margin">Gen. 40.15.</note> Now this kind of Theft was puniſhable by
+<pb n="29" facs="tcp:34607:26"/>death.<note place="margin">Exod. 21.16.</note> 
+               <hi>He that ſtealeth a Man and ſelleth him, ſhall ſure<g ref="char:EOLhyphen"/>ly be put to death.</hi> And, O then what an aggravation of Sin was this, to ſell their own Brother! 4. There was this aggravation of Guilt ſtood up in their Conſciences, it was a deliberate Act, (as was hinted before) an Act of Counſel and Conſpiracy (the Text is expreſs in it) <hi>And when they ſaw him afar off,</hi>
+               <note place="margin">Gen. 37.18.</note> 
+               <hi>even before he came near them, they conſpired againſt him to ſlay him.</hi> And as they joyned in their Conſpiracy, now up<g ref="char:EOLhyphen"/>on guilt walking in their Conſciences, they in my Text, joyn in their Conſeſſi<g ref="char:EOLhyphen"/>on. O! ſo it is with Sin<g ref="char:EOLhyphen"/>ners, when Sin is laid home to the charge of Conſcience. O, but was it not a plotted
+<pb n="30" facs="tcp:34607:27"/>piece of Guilt, a contrived piece of Guilt, a deliberate Act? <hi>David</hi> tells us, he ſaid, <hi>He would confeſs his Sin, and God forgave the Iniquity of his Sin.</hi>
+               <note place="margin">Pſal. 32.5.</note> 
+               <hi>(viz.)</hi> The deliberate<g ref="char:EOLhyphen"/>neſs of it; it may be he points at that particular ag<g ref="char:EOLhyphen"/>gravation. 5. Aggravation that ſtood up in the Conſci<g ref="char:EOLhyphen"/>ences of <hi>Joſeph's</hi> Brethren, was their hiding of it; and this put them upon dreadful Lying and Diſſembling with their Father.<note place="margin">Gen. 37.30.</note> 
+               <hi>And we will ſay, Some evil Beaſt hath devoured him. This have we found, know whether it be thy Son's Goat or no.</hi> O what dread<g ref="char:EOLhyphen"/>ful work was here! This is the fruit of Sin, to cover and hide all with Lyes to their own Father. 6. Aggrava<g ref="char:EOLhyphen"/>tion was there Cruelty, and
+<pb n="31" facs="tcp:34607:27"/>Hard-heartedneſs. The Text tells you, <hi>They would not hear when he beſought them.</hi> And now this cuts them to the Heart. So will Conſcience one day, ſay to the guilty Sinner: O! did not I beſeech thee to hearken to me! Did not I beſeech thee not to do this abominable thing which God hates! Did not I tell thee the ſad effects of it, but thou wouldſt not hear. 7. Ag<g ref="char:EOLhyphen"/>gravation, it was their envy to their Brother. They ha<g ref="char:EOLhyphen"/>ted him becauſe of his Dream, of their Sheaves bowing to his; and now they ſee the fruit of this their En<g ref="char:EOLhyphen"/>vy. O now, when the ag<g ref="char:EOLhyphen"/>gravations of Sin are ſet home by God upon the Con<g ref="char:EOLhyphen"/>ſcience, O then Sin appears (as the Apoſtle phraſes it)
+<pb n="32" facs="tcp:34607:28"/>to be exceeding ſinful. Sin appears as a walking Ghoſt, or <hi>Spectrum,</hi> that haunts the Soul.</p>
+            <p>Now I ſhall proceed to the improvement of this Practi<g ref="char:EOLhyphen"/>cal Truth. Then, 1. It af<g ref="char:EOLhyphen"/>fords us this Inſtruction, that Sin leaves its ſting behind it. It may be the ſting of Sin doth not appear at firſt: It may ſeem to the Sinner to be an harmleſs thing, but it always leaves ſome thing behind it, that will torment the Soul at one time or another; and this (Sinners) is a thing called Guilt. There is a Worm that is bred by Sin; and this is a guilty Conſci<g ref="char:EOLhyphen"/>ence. And the Worm, O how terribly doth it gnaw! No Torment like the gnaw<g ref="char:EOLhyphen"/>ing of a guilty Conſcience;
+<pb n="33" facs="tcp:34607:28"/>it is no leſs than an Hell on Earth; it is to be in Hell's flames before-hand. If you could ask <hi>Cain,</hi> he would tell you what a Torment an awakened guilty Conſcience is. If you could ask <hi>Joſeph</hi>'s Brethren, they would tell you. If you could ask <hi>Francis Spira,</hi> he would tell you. If you could ask <hi>Ju<g ref="char:EOLhyphen"/>das,</hi> he would tell you, whe<g ref="char:EOLhyphen"/>ther Sin after its commiſſion, doth not leave a ſting behind it. Nay, to come down to your latter Times, ask <hi>But<g ref="char:EOLhyphen"/>ler,</hi> the penitent Murderer. Nay, ask <hi>Savage,</hi> and they will tell you, that Guilt walks in the Conſcience af<g ref="char:EOLhyphen"/>terwards. O how hath this ſting of Guilt made many poor Souls cry out, and roar again. We all mourn like
+<pb n="34" facs="tcp:34607:29"/>Doves, and roar all like Bears: What was the mat<g ref="char:EOLhyphen"/>ter?<note place="margin">Iſa. 59.72.</note> 
+               <hi>Their iniquities teſtified againſt them.</hi> O what diſpair it hath brought many into! Therefore it was good Coun<g ref="char:EOLhyphen"/>ſel of the Philoſopher, <hi>Look not upon Pleaſure coming, but going.</hi> And as he ſaid, when askt, ſo much for lying with a famous Harlot: <hi>I will not buy Repentance at ſo dear a Rate.</hi> O! Will! not ſuch Philoſophers ſhame thou<g ref="char:EOLhyphen"/>ſands of Chriſtians? O! What a dear bargain will your pleaſurable or profitable Luſts be to you, either here or hereafter?</p>
+            <p n="2">2. Learn we hence, that though Conſcience be dumb and ſilent now, yet it will not always be ſo. It may be thy ſilent Conſcience is a
+<pb n="35" facs="tcp:34607:29"/>ſeared Conſcience, but the day may come, as ſilent as it is now, it will open at thee; though it now be a ſleeping Lion, yet it may be a Roaring Lion. <hi>Joſeph's</hi> Brethren had their Conſciences ſilent ma<g ref="char:EOLhyphen"/>ny Years, twenty Years to<g ref="char:EOLhyphen"/>gether, but now it ſpeaks to them, and charges their guilt home upon them; and they could not ſtand before the Charge and Indictment, but plead Guilty. <hi>David's</hi> Con<g ref="char:EOLhyphen"/>ſcience was ſtrangely benum<g ref="char:EOLhyphen"/>med for three quarters of a Year together; as you have heard: But when it was awa<g ref="char:EOLhyphen"/>kened, O how it roared upon him!<note place="margin">Pſal. 38.8.</note> 
+               <hi>I am feeble and ſore bro<g ref="char:EOLhyphen"/>ken, I have roared by reaſon of the diſquietneſs of mine heart.</hi>
+            </p>
+            <p n="3">3. Learn we hence that the worſt is not paſt, becauſe
+<pb n="36" facs="tcp:34607:30"/>Sin at preſent is not diſco<g ref="char:EOLhyphen"/>vered. Many poor Sinners think, O! their guilt is ſo ſecret and concealed, that the World knows not of it; their Chriſtian Acquaintance know not of it; their near and dear Relations know not of it; by this they flatter themſelves, and think the worſt is paſt. O poor Sin<g ref="char:EOLhyphen"/>ners! conſider with your ſelves, God knows of it, and Conſcience knows of it, and it will and muſt come out ſooner or later: O then the worſt is to come, when Sin ſhall either be charged upon you by an awakened Con<g ref="char:EOLhyphen"/>ſcience, or by a Revenging God.<note place="margin">Ezek. 22.14.</note> Ah Sinners! What Hearts can endure, or what Hands can be made ſtrong in
+<pb n="37" facs="tcp:34607:30"/>the day the Lord ſhall deal with you.</p>
+            <p n="4">4. Learn hence, God is not only an Holy God, but an Omniſcient God; he is Holy, and by no means will he clear the Guilty. This is a piece of his Name: But he is alſo an Omniſcient God, knows where all the Sinners ſecret Guilt lies:<note place="margin">Pſal. 90.8.</note> 
+               <hi>Our ſecret Sins are ſet before the Light of his Countenance.</hi> The Lord ſaw all this ſecret Guilt of <hi>Joſeph</hi>'s Brethren; it was (as is ſaid) laid up with him,<note place="margin">Deut. 32.33.</note> and hid amongſt his Trea<g ref="char:EOLhyphen"/>ſures. What, poor Sinners! though your Relations ſee it not, nor the World ſee it not, yet God ſees it, Conſcience ſees it; you can do nothing out of the ſight of Conſci<g ref="char:EOLhyphen"/>ence.</p>
+            <pb n="38" facs="tcp:34607:31"/>
+            <p n="5">5. Learn we hence the reaſon of that ſorrow that ma<g ref="char:EOLhyphen"/>ny times follows Sin, ſo that the Sinner knows not where to reſt. Thus <hi>Butler,</hi> the pe<g ref="char:EOLhyphen"/>nitent Murderer. Thus poor <hi>Savage,</hi> whoſe Caſe was the greateſt Sermon ever preacht at <hi>Ratcliff-Groſs.</hi> The rea<g ref="char:EOLhyphen"/>ſon of this Sorrow is the guilt that ſticks in the Con<g ref="char:EOLhyphen"/>ſcience; this fills the Soul with Horrour and Sorrow. O now the Soul becomes a ter<g ref="char:EOLhyphen"/>rour to itſelf, and it may be a terrour to all that are round about him. When you are tempted to Sin, O that you did but think this Sin will end in ſorrow! Will it not be bitterneſs in the latter end? O how would this tend to the breaking of the power of a Temptation!</p>
+            <pb n="39" facs="tcp:34607:31"/>
+            <p>The <hi>2d.</hi> Improvement of the Truth, is by way of Cau<g ref="char:EOLhyphen"/>tion. If Sin leave Guilt be<g ref="char:EOLhyphen"/>hind, O then take heed of Sin! Then poor Sinners, this may well be a Sermon to you againſt Sin. O then, 1. Take heed of Sins that make deep Wounds in the Conſcience, ſuch Sins as do <hi>(Vaſtare Con<g ref="char:EOLhyphen"/>ſcientiam)</hi> make havock of Conſcience, ſins againſt Light, againſt the Light of Nature; as thy own <hi>Conſcience</hi> will ac<g ref="char:EOLhyphen"/>cuſe thee of, if thou didſt not ſit under the Light of the Go<g ref="char:EOLhyphen"/>ſpel. <hi>Joſeph's</hi> Brethrens was ſuch a Sin; <hi>David's</hi> was ſuch a Sin: And, O how did it there<g ref="char:EOLhyphen"/>fore break his Bones! What are your ſecret Drunkenneſ<g ref="char:EOLhyphen"/>ſes, Uncleanneſs, your ſecret Night-haunts, will they not all come out one day, and be
+<pb n="40" facs="tcp:34607:32"/>brought to light? Are they not ſins againſt Light? Yea, againſt the Light of Nature? Could you ſin without con<g ref="char:EOLhyphen"/>troul of Conſcience, if you<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> did not put your Finger in the Eye of Nature?</p>
+            <p n="2">2. Take heed then of ſecret Sins alſo, be they ne<g ref="char:EOLhyphen"/>ver ſo hidden, they will walk in your Conſciences another day. Take heed of the works of Darkneſs, they will come to light. Did <hi>Joſeph</hi>'s Bre<g ref="char:EOLhyphen"/>thren think when they ſold their Brother, it would have come out thus? Let not Sa<g ref="char:EOLhyphen"/>tan, and your own Hearts flatter you, to think your ſins will always be hid, be<g ref="char:EOLhyphen"/>cauſe at preſent they are ſo.</p>
+            <p n="3">3. Take heed of being har<g ref="char:EOLhyphen"/>dened in ſins. Becauſe God ſeems by his Providence to
+<pb n="41" facs="tcp:34607:32"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ink at it: Many do ſo.<note place="margin">Pſal. 50.22.</note> 
+               <hi>Be<g ref="char:EOLhyphen"/>cauſe</hi> (ſays God) <hi>I kept ſi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nce, thou thoughtſt I was al<g ref="char:EOLhyphen"/>together like thy ſelf.</hi> Like <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>noſe,<note place="margin">Eccleſ. 8.11.</note> that <hi>Becauſe Sentence <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>as not ſpeedily executed, their <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>rts were fully ſet in them to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</hi> Whereas they ſhould <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nake this uſe of it: God's for<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>earance is to be the ſpace of <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ny Repentance.</p>
+            <p n="4">4. Take heed of flattering your ſelves, that your Sins will never come out all, be<g ref="char:EOLhyphen"/>cauſe they have been a long time hid. You ſee to the contrary: Many have come at laſt to condign Puniſhment for long hidden and conceal<g ref="char:EOLhyphen"/>ed Iniquities. It may be, Sinner, God's time is not yet come, to make a diſcovery of thy Wickedneſs. It may be thou art not ripe enough
+<pb n="42" facs="tcp:34607:33"/>in Sin. It may be the Lo<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> is all this while letting the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> alone to fill up thy Meaſure It may be thy <hi>impunity</hi> from Temporal Judgments, is th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Spiritual Judgment. God i<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> his wrath threatens ſome, <hi>Th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> he will not puniſh their <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and Daughters,</hi>
+               <note place="margin">Hoſ. 4.14.</note> 
+               <hi>when they com<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> mit Adultery.</hi> Sinners, you<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> think it a brave thing fo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> God to let you alone in you<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Sin, and ſpare you: And alas all this he may do in the hot<g ref="char:EOLhyphen"/>teſt Wrath and Diſpleaſure.</p>
+            <p n="5">5. Take heed of ſinful ex<g ref="char:EOLhyphen"/>cuſing and covering your Sin<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>He that covereth his Sin ſhall not proſper,</hi>
+               <note place="margin">Prov. 28.13.</note> 
+               <hi>but he that con<g ref="char:EOLhyphen"/>feſſeth and forſaketh his Sin ſhall find Mercy.</hi> O! now <hi>Jo<g ref="char:EOLhyphen"/>ſeph</hi>'s Brethren do not excuſe and cover their Sin. O! now conſcience is awakned &amp; they
+<pb n="43" facs="tcp:34607:33"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ead guilty with one conſent.</p>
+            <p>III. The next improve<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ent of the Truth, is this, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> word of Counſel and Ex<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ortation: Then let us all <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>and clear of Sin, if it leave Sting behind it; O! then <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> in awe, and ſin not. O <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay this with <hi>Joſeph,</hi> in the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſe of his Miſtreſs:<note place="margin">Gen. 39.9.</note> 
+               <hi>How can <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> do this great Wickedneſs, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>in againſt God?</hi>
+            </p>
+            <p n="1">1. Stand clear of Sin, it <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eaves that behind, will tor<g ref="char:EOLhyphen"/>ment you. Alas, poor Sin<g ref="char:EOLhyphen"/>ners, they conſult at preſent only the pleaſure of Sin, on<g ref="char:EOLhyphen"/>ly the ſatisfaction of a pre<g ref="char:EOLhyphen"/>ſent Luſt, and the profit of Sin, but they do not conſi<g ref="char:EOLhyphen"/>der the guilt of Sin. Did the Thief conſider, O! but this ſin will leave a Sting be<g ref="char:EOLhyphen"/>hind it, and it will expoſe
+<pb n="44" facs="tcp:34607:34"/>him to the danger of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Law, it will end in <hi>Tybur<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> O! how this would awe <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> check him: ſo did but S<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ners argue with themſelv<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> O this wicked Trade of mi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> this ſinful Courſe of mi<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> what will it end in? <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ill not end in Hell? Doth not expoſe me to the wra<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of a Righteous God? <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> would not ſuch a conſider<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tion cool the boyling he<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of many a Sinner's Luſt? is the miſery of Sinners, the look not to an afterward<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> but only at preſent conſu<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> either their Pleaſure or the Profit.</p>
+            <p n="2">2. Stand clear of Sin, f<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> it will be very terrible to yo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> when it ſhall haunt you<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Conſciences. There is <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſuch terrible <hi>Spectrum</hi> in th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <pb n="45" facs="tcp:34607:34"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orld, as the walking of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pardoned Sin in the Con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ence. O what horrour and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>azement did this Sin of <hi>Jo<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>h</hi>'s Brethren make in their <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>onſciences! And O, what <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ad caſe was <hi>David</hi> in, when <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſaid, <hi>My Sin is ever be<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>re me!</hi> As if he had ſeen <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>me <hi>Spectrum,</hi> or Appariti<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> haunting him. You would <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ot live in an haunted Houſe, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nd yet how many Sinners <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ve with haunted Conſcien<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>es? They are <hi>Magor-miſſa<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>bs,</hi> Terrours to themſelves, <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ea, and to thoſe that ſtand <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bout them. O! how did <hi>Judas</hi>'s guilt haunt him? And <hi>Spira</hi> his guilt haunt him?</p>
+            <p n="3">3. Stand off from Sin, for <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ne Sin will beget another. Thus did the Sin of <hi>Joſeph</hi>'s
+<pb n="46" facs="tcp:34607:35"/>Brethren, they now muſt c<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> ver it with his Coat, they no<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> muſt lye to their aged Father and ſay, an evil Beaſt hath d<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> voured him. O! where wi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Sin have an end! Sinners you know the beginning <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Sin, but who knows the en<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> thereof? Who knows whe<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Sin will ſtop? Sinners, yo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> know not what you do, whe<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> you meddle with Sin. Sin'<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> chain hath many Links, and they all depend one upon an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> other. And I muſt tell you<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> one Sin is ſo cloſe linkt to an<g ref="char:EOLhyphen"/>other, that they lead one to another. Thieving leads to Lying, Lying to Denying with Appeals to God, and ſo on to Swearing, and from Swearing on to Hardning.</p>
+            <p n="4">4. Stand clear of Sin, for<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> God will viſit your Sin upon
+<pb n="47" facs="tcp:34607:35"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ou ſooner or later. Though it <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>as long firſt, yet you ſee God puniſhes this Sin of <hi>Jo<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ph</hi>'s Brethren; now God <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>as viſiting for it. O (Sirs) <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e viſiting of God for Sin, is terrible thing! Do you not <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ear the Lord ſay,<note place="margin">Jer. 5.9.</note> 
+               <hi>Shall I not <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſit for theſe things?</hi> O poor <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inners! though God let <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ou alone at preſent, yet the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ears of your Viſitation ſhall <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ome.</p>
+            <p n="5">5. Stand clear of Sin, there <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s a worſe thing than all this follows it, <hi>(viz.)</hi> Wrath to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ome. O, may it not be ſaid <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o any one of you, nay, to every one of you,<note place="margin">John 5.14.</note> as was ſaid to her, <hi>Go your ways, ſin no more, leſt a worſe thing come unto you.</hi> A worſe thing? O, what can that be? Wrath to come, Hell and eternal
+<pb n="48" facs="tcp:34607:36"/>Torments, the Worm tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> never dies, the Fire that n<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ver goes out.</p>
+            <p>Second Counſel is to ſtan<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> clear of ſecret Guilt, the mo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> covert Guilt whatſoever This Sin of <hi>Joſeph</hi>'s Brethre<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> was a covered Sin for man<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> years together. This is <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that tempts many a poor So<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to ſin. Who ſeeth it? Wh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> knoweth it? It ſhall neve<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> come to light: All will b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> wrapt up in clean Linne<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and reſt in darkneſs and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> lence all my days. And u<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>on this very account, man<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> poor Souls, they fall into th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Snares, becauſe laid in th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> dark and ſecret for them.</p>
+            <p n="1">1. Conſider poor Sinner<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> God looks on when you com<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> mit ſecret Sins, there is no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thing hid from him. He <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="49" facs="tcp:34607:36"/>all Eye: He is an Omniſci<g ref="char:EOLhyphen"/>ent God. O poor Sinner! Didſt but thou think God looks on, O how would this ſtartle thee in the act of Sin! Shall the Eye of Men make Sinners afraid, and ſhall not the Eye of God much more? Would <hi>Joſeph</hi>'s Brethren thus ſecretly and perfidiouſly have ſold their Brother, if they had conſidered God ſaw them at the Bargain making, if they had conſidered God looked on?</p>
+            <p n="2">2. Poor Sinners, ſtand off from ſecret Sins, for the eye of Conſcience looks on; and Conſcience is a thouſand wit<g ref="char:EOLhyphen"/>neſſes. Conſcience in <hi>Jo<g ref="char:EOLhyphen"/>ſeph</hi>'s Brethren, could very well remember their Guilt. O (Sirs) Conſcience hath a ſtrange Memory. O if a
+<pb n="50" facs="tcp:34607:37"/>Sinner did but ſolemnly de<g ref="char:EOLhyphen"/>bate the Matter with himſelf and ſay, O, but if I commi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> this ſin never ſo ſecretly, my Conſcience is Witneſs, and will tell me of it another day, and gripe me for it ano<g ref="char:EOLhyphen"/>ther day. O how would theſe thoughts be an Impedi<g ref="char:EOLhyphen"/>ment in the way of many Sinner!</p>
+            <p n="3">3. Poor ſinners, ſtand o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> from ſecret ſins, for ſecre<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſins have many times ſtrang<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ly come to light:<note place="margin">Eccleſ. 10.20.</note> 
+               <hi>A Bird the Air ſhall tell the Matte<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> (ſays <hi>Solomon); viz.</hi> Sin ſha<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> be diſcovered by improbab<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and unlikely means. W<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> reade of others, that Heave<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhall reveal their Iniquity <hi>The Heaven ſhall reveal h<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> iniquity, and the Earth ſha<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> riſe up againſt him.</hi>
+               <note place="margin">Job 20.27.</note> Rather
+<pb n="51" facs="tcp:34607:37"/>than it ſhall be hid, Heaven and Earth ſhall conſpire to bring it to light. God hath of late given us notable In<g ref="char:EOLhyphen"/>ſtances, in deceiving wicked Mens Plots and Projects a<g ref="char:EOLhyphen"/>gainſt theſe poor Nations.</p>
+            <p n="4">4. Stand off from ſecret Sins. They are moſt dange<g ref="char:EOLhyphen"/>rous, becauſe they go a great while undiſcovered, and the concealment of them often is an occaſion of being hard<g ref="char:EOLhyphen"/>ned in them, and putting off Repentance for them. God often makes uſe of Shame upon diſcovery of ſome ſe<g ref="char:EOLhyphen"/>cret Sin, to be a means to lead to Repentance.</p>
+            <p n="5">5. The longer Guilt lies hid, the louder will it roar in the Conſcience when diſ<g ref="char:EOLhyphen"/>covered; thus you ſee it did with <hi>Joſeph</hi>'s Brethren. O,
+<pb n="52" facs="tcp:34607:38"/>now their guilty Conſciences roar upon them, though it had been hid ſo long. O, what work will Sin make in thy Conſcience, when it ſhall walk there after thou thoughtſt it had been buried twenty or thirty years! O then, who would not ſtand off from ſecret Sins!</p>
+            <p>Third word of Counſel. O then repent of ſin, if guilt ſtay behind after the Fact be committed. Is it not then high time that your ſin ſhould be blotted out upon your Re<g ref="char:EOLhyphen"/>pentance? I muſt tell you, Sinners, the guilt of ſin is upon your Conſciences, un<g ref="char:EOLhyphen"/>til your Repentance. You lie under Guilt, if it be twen<g ref="char:EOLhyphen"/>ty years after. What th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> you have eſcaped the Reven<g ref="char:EOLhyphen"/>ging Hands of God hitherto,
+<pb n="53" facs="tcp:34607:38"/>yet the Guilt is upon you, and that binds you; there<g ref="char:EOLhyphen"/>fore you ſee, Repentance and Remiſſion of Sin goes together. O poor Sinners, until you ſincerely Repent, all your Guilt is upon you: Yea, it is marked before the Lord, and O how ſad is this to have the guilt of all thy Sins that thou haſt com<g ref="char:EOLhyphen"/>mitted to this very day, up<g ref="char:EOLhyphen"/>on the back of thy Soul!</p>
+            <p>Fourth word of Counſel. O then flie to the Blood of Chr<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>! Guilt will walk in your Conſciences when once awakened, until the Blood of Chriſt be ſprinkled upon them: Until you by an eye of Faith, behold the Lamb of God, who takes away the Sins of the World. What though Guilt hath laid long
+<pb n="54" facs="tcp:34607:39"/>upon you? What though the Sin be of old ſtanding, yet the Blood of Chriſt takes it away. It cleanſes from all Sin,<note place="margin">Heb. 12.24.</note> new or old, great or ſmall, Inormities or Infirmi<g ref="char:EOLhyphen"/>ties; ſins againſt Light, or ſins againſt Love. O then come, Sinners, come to the Blood of Sprinkling.</p>
+            <p>Fifth word of Counſel is, O then do not lie long in your Guilt! To fall into Sin is dangerous, but to lie long when fallen is much more dangerous. Theſe B<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>en of <hi>Joſeph</hi>'s laid long in their Sin and Guilt. O poor Sin<g ref="char:EOLhyphen"/>ners, when you fall by Sin, make haſte to get up by Re<g ref="char:EOLhyphen"/>pentance.</p>
+            <p n="1">1. What if you ſhould be hardned in Guilt? and do you not run the hazard of be<g ref="char:EOLhyphen"/>ing
+<pb n="55" facs="tcp:34607:39"/>hardned in Sin when you lie in it? It may be before you commit it, you think you may repent of it when you will; but alas, you may ſoon be hardned through the de<g ref="char:EOLhyphen"/>ceitfulneſs of Sin. Dr. <hi>Pre<g ref="char:EOLhyphen"/>ſton,</hi> ſpeaking of the deceit<g ref="char:EOLhyphen"/>fulneſs of Sin, <hi>O,</hi> ſays he, <hi>Sin in the firſt temptation to the Sinner ſeems little; commit but this once, and thou mayſt after<g ref="char:EOLhyphen"/>wards repent of it, and thou needeſt never commit this Sin again. But alas</hi> (ſays he) <hi>every Sin committed leaves the Spawn of another Sin upon the Soul, and after once, the Soul is eaſily led into another Act, until it be hardned through the deceitfulneſs of Sin.</hi>
+            </p>
+            <p n="2">2. What if you die in it? You may lie in it, and die in it. O, what if God ſay ſuch
+<pb n="56" facs="tcp:34607:40"/>a word to you in your Guilt unrepented of, as he did to thoſe <hi>Jews, You ſhall die in your Sins</hi>—? O, is not this a dreadful thing to die in Sin! You think it ſad to die in Debt to Men; what is it then to die in Sin, which is debt to God, with all your ſins up<g ref="char:EOLhyphen"/>on the back of your Souls? What, if thou dieſt an unpar<g ref="char:EOLhyphen"/>doned Sinner, art thou not damned if thou hadſt ten thouſand Souls? And, O what a venture doſt thou run that lieſt in Sin!</p>
+            <p n="3">3. O do not lie in Sin. The longer it is laid in, the har<g ref="char:EOLhyphen"/>der it will be to repent of: The longer a Sinner lies in his Fall, the harder he is to Riſe. As the larger a Diſeaſe is up<g ref="char:EOLhyphen"/>on a Perſon, the more diffi<g ref="char:EOLhyphen"/>cult is the Cure. A Man
+<pb n="57" facs="tcp:34607:40"/>feels not at firſt when he lies upon the Ground, but if he lies a while, he grows ſtiff, and can very hardly riſe. Thus it will be with a Soul that lies long in Sin: O then repent ſpeedily of Sin.</p>
+            <div type="part">
+               <epigraph>
+                  <bibl>
+                     <hi>GEN. xlii. 21.</hi>
+                  </bibl>
+                  <q>
+                     <p>Therefore is this Diſtreſs come upon us.</p>
+                  </q>
+               </epigraph>
+               <p>WE are now come to the ſecond part of the Text, <hi>(viz.)</hi> The Reflecti<g ref="char:EOLhyphen"/>on, or Accuſation of <hi>Joſeph</hi>'s Brethren, their Conſciences now being awakened by their Affliction, they now jointly draw up this Conoluſion and Indictment againſt themſelves: O, <hi>Therefore is this Diſtreſs come upon us.</hi>
+               </p>
+               <pb n="58" facs="tcp:34607:41"/>
+               <p n="1">1. We have the Reflecti<g ref="char:EOLhyphen"/>on it ſelf. O how quick was Conſcience now! What quick work ſometimes doth, ſence of Guilt make? O now they cry out with an Aſſeve<g ref="char:EOLhyphen"/>ration, <hi>Verily we are guilty,</hi> &amp;c.</p>
+               <p n="2">2. We have the occaſion of this Reflection, <hi>(viz.) Their preſent Diſtreſs.</hi> Now they were under Affliction. (For their being all this while in the hand of <hi>Joſeph</hi> was an unknown Buſineſs to them). Their diſtreſs and ſtrait was great, and now they as one Man conclude for their guilt, <hi>this Diſtreſs was come upon them.</hi>
+               </p>
+               <q>
+                  <hi>The Truth the Text pre<g ref="char:EOLhyphen"/>ſents us with, is this:</hi> In a day of Affliction,
+<pb n="59" facs="tcp:34607:41"/>Gonſcience is very quick and active in its Refle<g ref="char:EOLhyphen"/>ctions.</q>
+               <p>This is a profitable Truth, and worth inquiring into, ſuch Days as theſe, when ſo ma<g ref="char:EOLhyphen"/>ny are hardned in their ſins. Poor Sinners ruffle it out, and ſtout it out againſt God in a a day of Proſperity. O who but they! with <hi>Pharaoh,</hi> ſaying, <hi>Who is the Lord?</hi> Thus he ſwaggers it out: but ſtay until an Hand of God be up<g ref="char:EOLhyphen"/>on him, and then you will find him of another mind; O then, Send for <hi>Moſes</hi> to pray for me! Then he confeſſes, <hi>I and my People are wicked.</hi> Thus the Prophet <hi>Jeremiah</hi> makes the wild Aſs an Em<g ref="char:EOLhyphen"/>blem (and that very fitly) of a wicked Man in his pro<g ref="char:EOLhyphen"/>ſperous
+<pb n="60" facs="tcp:34607:42"/>condition, running on in Sin: <hi>As the wild Aſs ſnuffs up the Wind at her plea<g ref="char:EOLhyphen"/>ſure.</hi>
+                  <note place="margin">Jer. 2.24.</note> All Counſel, all In<g ref="char:EOLhyphen"/>ſtruction, all Advice is loſt: All that ſeek her, do but weary themſelves. But ſtay until her Months of Affliction and Diſtreſs come, and then they may be ſpoken with. In their Months one ſhall find them. O now Conſcience begins to talk with them, and call them to a ſerious debate concerning their paſt lives and Tranſactions, God often ſets Conſcience to diſcourſe with Sinners, in the day of their Diſtreſs. We have plenti<g ref="char:EOLhyphen"/>ful Inſtances of this Truth in holy Writ. You may find it proved of the worſt of Men, as well as of God's own People. The caſe of
+<pb n="61" facs="tcp:34607:42"/>
+                  <hi>Gain,</hi> what a quick Reflecti<g ref="char:EOLhyphen"/>on was that of his, <hi>All that meet me will ſlay me.</hi> His ſin and guilt walked in his Con<g ref="char:EOLhyphen"/>ſcience. <hi>Abel</hi>'s Ghoſt (as I may ſay) he haunted <hi>Gain</hi>'s Conſcience. Alas! Who was in the World to ſlay him? It was only the conclu<g ref="char:EOLhyphen"/>ſion of his guilty Conſcience. <hi>Ahab</hi> had ſinned highly a<g ref="char:EOLhyphen"/>gainſt the Lord, he was a Non-ſuch for a Sinner.<note place="margin">1 King. 21.24.</note> 
+                  <hi>There was none like unto</hi> Ahab, <hi>which did ſet himſelf to work wicked<g ref="char:EOLhyphen"/>neſs in the ſight of God.</hi> Yet when this poor Wretch came to hear of God's Threatnings, how quick was Conſcience in making Reflections upon him, he humbled himſelf be<g ref="char:EOLhyphen"/>fore the Lord. <hi>Manaſſeh</hi> for all his Abominations, when God brought him into the
+<pb n="62" facs="tcp:34607:43"/>Briars, then Conſcience fell to work; O now <hi>Manaſſeh</hi> came to know the Lord! O now he humbled himſelf! How ordinary is this? How many wicked Men ſometimes upon a ſuppoſed Death-bed, ſometimes upon a real Death<g ref="char:EOLhyphen"/>bed, have confeſſed that guilt which hath laid dormant in their Conſciences a very long time? How have they had all their Sins ſet in order be<g ref="char:EOLhyphen"/>fore their Eyes? O how have all their former committed Wickedneſſes (though ne<g ref="char:EOLhyphen"/>ver ſo ſecret) taken hold of them!</p>
+               <p>Now for the Proof of it, as to the Godly in particular, they contribute witneſs a<g ref="char:EOLhyphen"/>bundantly to this Truth; therefore when we find them under the Hand of God, what
+<pb n="63" facs="tcp:34607:43"/>confeſſion do they make to God? What ſupplications do they pour out to God at ſuch times? How do they mourn like Doves? and, as the Church ſaith, roar like Bears, accuſing themſelves now in a day of Diſtreſs:<note place="margin">Iſa. 59.12, 13.</note> 
+                  <hi>As for our Iniquities, they teſtifie againſt us,</hi> &amp;c. It is ſaid of <hi>Iſrael, That God ſlew the fat<g ref="char:EOLhyphen"/>teſt of them, and ſmote the cho<g ref="char:EOLhyphen"/>ſen Men of</hi> Iſrael. O, what did they then in this ſad day? <hi>Then they returned to the Lord.</hi>
+                  <note place="margin">Pſal. 78.31, 34.</note> But alas, all this was but while the Affliction was upon them. <hi>David,</hi> when under Affliction, O how he Reflects, <hi>There was no reſt in his Bones, becauſe of God's Anger, and his Sin.</hi> And <hi>Jonah,</hi> guilty <hi>Jonah!</hi> when God had found him out, how quick was Con<g ref="char:EOLhyphen"/>ſcience
+<pb n="64" facs="tcp:34607:44"/>with him? <hi>For my ſake is this evil come upon you: Gaſt me over-board.</hi> He ac<g ref="char:EOLhyphen"/>knowledges himſelf to be the Storm-breeder.</p>
+               <p>Now, <hi>Firſt,</hi> We ſhall en<g ref="char:EOLhyphen"/>quire what a Reflection of Conſcience is.</p>
+               <p>
+                  <hi>Secondly,</hi> What Conſci<g ref="char:EOLhyphen"/>ence doth Reflect upon in a day of Diſtreſs.</p>
+               <p>
+                  <hi>Thirdly,</hi> What kind of Re<g ref="char:EOLhyphen"/>flections theſe reflections of guilty Conſciences are.</p>
+               <p>
+                  <hi>Fourthly,</hi> Why Conſcience is ſo quick with Sinners, in a day of Affliction and Di<g ref="char:EOLhyphen"/>ſtreſs.</p>
+               <p>
+                  <hi>Fifthly,</hi> We ſhall improve all by way of Application.</p>
+               <p>
+                  <hi>Firſt,</hi> What a Reflection of Conſcience is. Here we
+<pb n="65" facs="tcp:34607:44"/>muſt enquire what Conſcience <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. We reade often of it in Scripture:<note place="margin">Heb. 10.22.</note> 
+                  <hi>Having our Hearts <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rinkled from an evil Conſci<g ref="char:EOLhyphen"/>ence.</hi>
+                  <note place="margin">Heb. 9.14.</note> 
+                  <hi>And Conſciences pur<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ed from dead Works, to ſerve the Living God.</hi> I will not <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rouble you with any Nicity <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bout Conſcience, becauſe <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Truth is purely practical. It is indeed diſputed, whether Conſcience be a Power, or in Habit, or an Act only. Some of late have called it an juſtinct, or a Principle in Man impreſſing upon his Mind a future Judgment.<note place="margin">Dr. <hi>Bar<g ref="char:EOLhyphen"/>thog</hi> in his <hi>Cauſa Dei</hi> pag. 404.</note> Or an Ha<g ref="char:EOLhyphen"/>bit, a Natural Habit. [An Habit] becauſe it was at firſt in Adventitious Impreſſion. [Natural] becauſe now it is Original, and tranſmitted in <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he ſame way as other Natu<g ref="char:EOLhyphen"/>ral Qualities, (thus one up<g ref="char:EOLhyphen"/>on
+<pb n="66" facs="tcp:34607:45"/>it). But I will apply my ſelf to thoſe things that have no perplexity in them to un<g ref="char:EOLhyphen"/>derſtand.</p>
+               <p>Conſcience is a very buſie faculty in the Soul of Man, or a Practick and Reflexive Power of the Mind; and its Operations are theſe.</p>
+               <p n="1">1. It takes notice of Mens Actions, what we do we do under the Eye of Conſcience. A Heathen could ſay, <hi>It is God's Regiſter, and a ſtrict Ob<g ref="char:EOLhyphen"/>ſerver of our ways.</hi>
+               </p>
+               <p n="2">2. It doth teſtifie either with us, or againſt us; ſo it acts the part of a Witneſs. And ſo it is ſaid to Excuſe, or Accuſe.<note place="margin">Rom. 2.15.</note> It ſpeaks ſome<g ref="char:EOLhyphen"/>times for poor Souls; this is our rejoycing,<note place="margin">2 Cor, 1.12.</note> the teſtimo<g ref="char:EOLhyphen"/>ny of our Conſciences. I doth ſometimes Accuſe. Thus
+<pb n="67" facs="tcp:34607:45"/>it did in <hi>Joſeph</hi>'s Brethren, then they cried out of their Guilt.</p>
+               <p n="3">3. It doth torment. O what <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>orment like that of a griping <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uilty Conſcience! How did <hi>Cain</hi>'s Conſcience torment him? and <hi>Judas</hi> his Conſci<g ref="char:EOLhyphen"/>ence torment him? How did <hi>Spira</hi> his Conſcience torment him? This is a piece of Hells Torments begun here. This Conſcience in Men, is Judge, Witneſs, and Execu<g ref="char:EOLhyphen"/>tioner.</p>
+               <p>Now we muſt underſtand, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>here is a two-fold Conſci<g ref="char:EOLhyphen"/>ence.</p>
+               <p n="1">1. A ſeared Conſcience, <hi>Having their Conſciences ſeared with an hot Iron:</hi>
+                  <note place="margin">1 Tim. 4.2.</note> Cauterized (as hath been hinted before) whereby it is made brawny and inſenſible. Now while
+<pb n="68" facs="tcp:34607:46"/>thus, it is not a Reflecting Conſcience. Here is no walk<g ref="char:EOLhyphen"/>ing Guilt, though abundance of dormant and ſleepy Guilt And for the preſent, had no <hi>Joſeph</hi>'s Brethren ſeared Con<g ref="char:EOLhyphen"/>ſciences, when they did <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> down to eat after ſuch a Fact as caſting their Brother into the Pit:<note place="margin">Gen. 37.25.</note> 
+                  <hi>And they took him and caſt him into a Pit: and the Pit was empty, there was no Water in it. And they ſa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> down to eat Bread,</hi> &amp;c. Her was little Senſe upon them no Reflection yet upon them.</p>
+               <p n="2">2. There is a ſoft and ten<g ref="char:EOLhyphen"/>der Conſcience, and this is the Conſcience that make Reflections Conſcience is awakened before it be thus ſoftned. It muſt know i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> hath doue evil, before it ſay What have I done? <hi>David</hi>'s
+<pb n="69" facs="tcp:34607:46"/>Conſcience was thus tender, when it ſmote him for cutting off the Lap of <hi>Saul</hi>'s Gar<g ref="char:EOLhyphen"/>ment.</p>
+               <p>Now for the better under<g ref="char:EOLhyphen"/>ſtanding, what is meant by theſe Reflections of Conſci<g ref="char:EOLhyphen"/>ence, we muſt inquire by what Expreſſions the Scrip<g ref="char:EOLhyphen"/>ture ſets them out.</p>
+               <p n="1">1. Reflections of Conſci<g ref="char:EOLhyphen"/>ence are ſet forth by Convi<g ref="char:EOLhyphen"/>ction. We reade of them that brought the Woman to Chriſt taken in Adultery: <hi>They were convicted in their Conſciences,</hi>
+                  <note place="margin">John 8.9.</note> 
+                  <hi>they went out one by one.</hi> — It is a Law-term, <hi>The Priſoner ſtands Convict.</hi> Now theſe Perſons applied Guilt to themſelves, <hi>They were guilty in their Conſciences.</hi> Thus <hi>Joſeph</hi>'s Brethren were guilty, and cried out as Men
+<pb n="70" facs="tcp:34607:47"/>convict in their own Conſci<g ref="char:EOLhyphen"/>ences. Convictions (ſay one) is the light of the Un<g ref="char:EOLhyphen"/>derſtanding reflecting upon the Guilt diſcovered to it whereby it makes a deep im<g ref="char:EOLhyphen"/>preſſion upon the Spirit. S<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that one piece of Reflection conſiſts in conviction <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Guilt.</p>
+               <p n="2">2. Another expreſſion ſet<g ref="char:EOLhyphen"/>ting forth the Reflections <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> guilty Conſciences, is wounded Spirit: It is now wounded Conſcience. Now <hi>Joſeph</hi>'s Brethren were woun<g ref="char:EOLhyphen"/>ded in their Conſciences: <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> wounded Spirit,</hi>
+                  <note place="margin">Prov. 18.14.</note> 
+                  <hi>who can bea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> or lift up</hi> (as ſome reade it) A Metaphor taken from Bo<g ref="char:EOLhyphen"/>dily Wounds. O, how will a Wound ſmart and throb So doth Guilt in an awake<g ref="char:EOLhyphen"/>ned Sinners Conſcience when
+<pb n="71" facs="tcp:34607:47"/>it makes Reflections, O! now it is pained under the ſenſe of Guilt. Thus <hi>David,</hi>
+                  <note place="margin">Pſal. 38.5.</note> 
+                  <hi>My Wounds ſtink, and are corrupt.</hi>
+               </p>
+               <p n="3">3. Another expreſſion ſet<g ref="char:EOLhyphen"/>ting forth the Reflections of guilty Conſciences, is the reproaching of Conſcience: <hi>My Heart ſhall not upbraid me, as long as I live,</hi>
+                  <note place="margin">Job 27.6.</note> 
+                  <hi>(or from my days).</hi> Concerning my manner of Living, my Heart ſhall take no ſhame from my Days (ſays Mr. <hi>Broughton</hi>). <hi>Viz.</hi> From thoſe things I have done in my Days, or from my whole Converſation. He had lived in good Conſcience before God and Man:<note place="margin">Acts 23.1.</note> But now when Conſcience reflects upon a Man under ſenſe of Guilt, it reproaches him, it upbraids him, it is always chiding him.</p>
+               <pb n="72" facs="tcp:34607:48"/>
+               <p n="4">4. Another expreſſion ſet<g ref="char:EOLhyphen"/>ting forth the Reflections o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> guilty Conſciences, is, Th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Conſcience ſmiting him. A<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>David</hi> his Heart ſmote him when he cut off the Lap o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Saul</hi>'s Garment. Tende<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Conſciences find this inwar<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſmiting, either upon th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> commiſſion of Evil, or th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> omiſſion of Good. Ah! now how did <hi>Joſeph</hi>'s Brethren's Conſciences ſmite them? It is ſet forth by the poor Pub<g ref="char:EOLhyphen"/>lican ſmiting on his Breſt And ſometimes with <hi>E<g ref="char:EOLhyphen"/>phraim</hi>'s ſmiting upon his Thigh. O, now Sinners re<g ref="char:EOLhyphen"/>flect upon their Sins, as tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> word, <hi>No Man repented, and ſaid, what have I done?</hi>
+               </p>
+               <p n="5">5. It is ſet forth by bring<g ref="char:EOLhyphen"/>ing again to mind, which is the proper notion of Reflecti<g ref="char:EOLhyphen"/>on:
+<pb n="73" facs="tcp:34607:48"/>
+                  <hi>Remember, and ſhew your ſelves Men:</hi>
+                  <note place="margin">Iſa. 46.8.</note> 
+                  <hi>and bring it a<g ref="char:EOLhyphen"/>gain to mind, O ye Tranſgreſ<g ref="char:EOLhyphen"/>ſors.</hi> Therefore we have fre<g ref="char:EOLhyphen"/>quently ſuch Expreſſions. <hi>Remembring their evil ways:</hi>
+                  <note place="margin">1 Kings 8.47.</note> 
+                  <hi>and if my People ſhall bethink themſelves.</hi> Theſe are pro<g ref="char:EOLhyphen"/>perly the Reflex Acts of the Mind and Conſcience.</p>
+               <p n="6">6. It is ſet forth by Ac<g ref="char:EOLhyphen"/>cuſing: The Conſcience draws up an Accuſation a<g ref="char:EOLhyphen"/>gainſt the Sinner, as here <hi>Joſeph</hi>'s Brethren did: it Re<g ref="char:EOLhyphen"/>flects when it Accuſes. We reade of the <hi>Gentiles,</hi> who only had the Law of Nature, and yet their Conſciences did accuſe them.</p>
+               <p n="7">7. It is ſet forth by Con<g ref="char:EOLhyphen"/>demning, which is higher than Accuſing; it paſſes Judgment, as well as it wit<g ref="char:EOLhyphen"/>neſſes:
+<pb n="74" facs="tcp:34607:49"/>
+                  <hi>If our own Hearts con<g ref="char:EOLhyphen"/>demn us,</hi>
+                  <note place="margin">1 John 3.20.</note> 
+                  <hi>God is greater than our Hearts,</hi> (viz.) <hi>our Con<g ref="char:EOLhyphen"/>ſciences.</hi> We may ſpell out of all theſe, ſome things of the nature of Reflection of Conſcience.</p>
+               <p>
+                  <hi>Second</hi> Inquiry is, What this awakened Conſcience re<g ref="char:EOLhyphen"/>flects upon. For we muſt un<g ref="char:EOLhyphen"/>derſtand that Conſcience doth never bear falſe Wit<g ref="char:EOLhyphen"/>neſs, for in this caſe the voice of Conſcience is the Voice God. Conſcience's Teſti<g ref="char:EOLhyphen"/>mony holds true in the caſe of <hi>Joſeph</hi>'s Brethren.</p>
+               <p n="1">1. Conſcience in a day of Affliction, reflects upon mat<g ref="char:EOLhyphen"/>ters of Fact. It may be at the preſent commiſſion of the Sin, the Sinner takes no no<g ref="char:EOLhyphen"/>tice of it; in an hurry and huff of Temptation, all is
+<pb n="75" facs="tcp:34607:49"/>forgotten. O! but there is <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Book of Remembrance that Conſcience keeps, and all your Sins are regiſtred there; and though it be a ſealed Book at preſent, you know not <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ow ſoon it may be opened, and you judged out of it, ac<g ref="char:EOLhyphen"/>cording to what you have <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>one. O, how many Sin<g ref="char:EOLhyphen"/>ners may now deny matter of fact, but when Conſcience <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hall be awakened to lay it <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ome, and charge them plain<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ith it (ſaying as <hi>Nathan</hi> to <hi>David</hi>) <hi>Thou art the Man:</hi> Then there will be no deny<g ref="char:EOLhyphen"/>ing of it. The witneſs of <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>es own Conſcience, is an <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>deniable Teſtimony. <hi>Cain</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ould not deny this Teſtimo<g ref="char:EOLhyphen"/>ny, therefore his Guilt cri'd, <hi>all that meet me will ſlay me. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> aoh</hi> could not deny this
+<pb n="76" facs="tcp:34607:50"/>Teſtimony, <hi>I and my People are wicked. Judas</hi> could no<g ref="char:EOLhyphen"/>deny this Teſtimony, <hi>I have ſinned in betraying innocent Blood.</hi> The People of God could not deny this Teſtimo<g ref="char:EOLhyphen"/>ny, when they cried out <hi>Our Iniquities teſtifie again us,</hi> &amp;c.</p>
+               <p n="2">2. Conſcience doth no only reflect upon matter o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Fact, but upon Circumſtan<g ref="char:EOLhyphen"/>ces and Aggravations of the Fact, Conſcience when awa<g ref="char:EOLhyphen"/>kened becomes tender, and calls every particular Cir<g ref="char:EOLhyphen"/>cumſtance to remembrance that did heighten, or any way aggravate the matter and thus did they in the Text: Wherein lay the ag<g ref="char:EOLhyphen"/>gravation of the Guilt? You have heard hinted before <hi>[I that we ſaw the anguiſh of h<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <pb n="77" facs="tcp:34607:50"/>Soul, and he beſought us, yet we would not hear].</hi>
+               </p>
+               <list>
+                  <item>1. They ſaw the anguiſh of his Soul, and yet their Eyes did not affect their Hearts.</item>
+                  <item>2. It was their Brother too.</item>
+                  <item>3. He beſought us.</item>
+                  <item>4. They would not hear. All of them great Aggrava<g ref="char:EOLhyphen"/>tions. Saw it. The anguiſh of a Brothers Soul. A be<g ref="char:EOLhyphen"/>ſeeching Brother, and would not hear. Deaſned their Ears to his lamentable Cries. O, how do their Conſci<g ref="char:EOLhyphen"/>ences Reflect upon all theſe!</item>
+               </list>
+               <p>There are ſeveral things that Conſcience when awa<g ref="char:EOLhyphen"/>kened, reflects upon, with reference to the Circumſtan<g ref="char:EOLhyphen"/>ces of matter of Fact.</p>
+               <p n="1">1. Sometimes Conſcience
+<pb n="78" facs="tcp:34607:51"/>tells the Sinner, it is againſt Light: Thou hadſt ſo much Light as to conceive this before commiſſion, that it was a Sin, that it was a Vi<g ref="char:EOLhyphen"/>olation and Tranſgreſſion of an holy Law; and ſays Con<g ref="char:EOLhyphen"/>ſcience, this thou kneweſt, yea, this thou kneweſt before<g ref="char:EOLhyphen"/>hand, and yet contrary to the diſcovery of this Light, thou didſt run violently into it, and rebelledſt againſt the Light (as <hi>Job</hi>'s phraſe is).<note place="margin">Job 24.13.</note>
+               </p>
+               <p n="2">2. Sometimes Conſcience tells the Sinner, he hath ſin<g ref="char:EOLhyphen"/>ned againſt Reſolutions; and this is an aggravating Cir<g ref="char:EOLhyphen"/>cumſtance. O how often (ſays Conſcience) haſt thou broken thy ſerious Purpoſes and Vows, when it may be you have been in imminent dangers and diſtreſſes. Now
+<pb n="79" facs="tcp:34607:51"/>Conſcience regiſters and re<g ref="char:EOLhyphen"/>cords the very Reſolutions of poor Sinners, it being privy to all the ſecret Purpoſes. When ſome of you are at Sea, ready to be ſwallowed up of the Belly of Hell (as <hi>Jonah</hi> phraſes it) O then you pray to God, and purpoſe a<g ref="char:EOLhyphen"/>gainſt Sin, if God will bring you off with your Lives at this time. Or, it may be, o<g ref="char:EOLhyphen"/>thers of you at Land, upon a ſuppoſed Death-bed, O, if God will ſpare you, How do you reſolve againſt Sin, yea, againſt thoſe Sins that ſting your Conſciences moſt? But alas, after all this, do not you break your Bonds? Now Conſcience books all, and at one time or other, will re<g ref="char:EOLhyphen"/>member you of all theſe things.
+<pb n="80" facs="tcp:34607:52"/>
+               </p>
+               <p n="3">3. Sometimes Conſcience in its Reflections, tells the Sinner of ſinning againſt its Warnings and Dictates. To ſin againſt the dictates of Conſcience, is a very great Aggravation. O Sinners! how often hath Conſcience warned you? As you love your Peace, as you love your Souls, as you will anſwer it at the great Tribunal of God, that you go not on in ſuch a Courſe, or that you commit not ſuch a Sin at your Pe<g ref="char:EOLhyphen"/>ril (ſays Conſcience): but not withſtanding all this, the Sinner blunders on. I tell you Sinners (from the Lord) there is never a Warning an awakened Conſcience hath gi<g ref="char:EOLhyphen"/>ven any of you, but it will riſe up againſt you another
+<pb n="81" facs="tcp:34607:52"/>Day; either here or, hereaf<g ref="char:EOLhyphen"/>ter.</p>
+               <p n="4">4. Sometimes Conſcience in its Reflections, tells Sin<g ref="char:EOLhyphen"/>ners of their ſinning againſt its Reproofs; which is an ag<g ref="char:EOLhyphen"/>gravating Circumſtance. To run into Sin after long repro<g ref="char:EOLhyphen"/>ved, hence you have that ter<g ref="char:EOLhyphen"/>rible word,<note place="margin">Proy. 28.1.</note> 
+                  <hi>He that being of ten reproved, hardens his Heart, ſhall ſuddenly be de<g ref="char:EOLhyphen"/>ſtroyed, and that without reme<g ref="char:EOLhyphen"/>dy.</hi> O, ſays Conſcience, is not this thy Caſe? Haſt thou not often been reproved? Have not I often reproved thee, and God often repro<g ref="char:EOLhyphen"/>ved thee? and Miniſters of<g ref="char:EOLhyphen"/>ten reproved thee? Yet haſt thou gone on, <hi>&amp;c.</hi> And will not every Reproof walk in your Conſciences another day, that you ſin againſt now?</p>
+               <pb n="82" facs="tcp:34607:53"/>
+               <p n="5">5. Sometimes Conſcience in its Reflections, tells Sin<g ref="char:EOLhyphen"/>ners of ſinning againſt Mercy, which is another aggravating Circumſtance. How many Mercies (ſays Conſcience) have you ſinned againſt? ſpa<g ref="char:EOLhyphen"/>ring Mercy at Sea, and at Land? preventing Mercy, preſerving Mercy? O what a life of Mercy hath thy Life ſeen! Nothing but a Series of Mercy, a large Tract of Mercy, a Line of Mercy, and yet thou haſt ſinned againſt all. This will grieve thee another Day, when thou ſhalt have all thy Mercies as well as Sins, ſet in order before thee.</p>
+               <p>
+                  <hi>Thirdly,</hi> Conſcience re<g ref="char:EOLhyphen"/>flects upon the diſhonour Sin brings to God, as well as up<g ref="char:EOLhyphen"/>on the Fact, and the circum<g ref="char:EOLhyphen"/>ſtances
+<pb n="83" facs="tcp:34607:53"/>of the Fact. When Conſcience begins to be en<g ref="char:EOLhyphen"/>lightned and awakened, O then it begins to think what diſhonour Sin hath brought upon God; for as Sin brings guilt upon the Soul, ſo it brings diſhonour upon the Name of God. And thus <hi>David</hi>'s Conſcience reflects, <hi>Againſt thee, againſt thee have I ſinned;</hi> this laid uppermoſt on the Heart of <hi>David.</hi> He ſinned againſt his Soul, he ſinned againſt his own Body, he ſinned againſt <hi>Bathſheba,</hi> he ſinned againſt the whole Church of God; but of all (ſays he) <hi>Againſt Thee, a<g ref="char:EOLhyphen"/>gainſt Thee have I ſinned.</hi> O, ſays Conſcience to the Sin<g ref="char:EOLhyphen"/>ner, how haſt thou opened the Mouths of the Enemies of God and his People, to
+<pb n="84" facs="tcp:34607:54"/>blaſpheme? and cauſed the Ways of God to be evil ſpo<g ref="char:EOLhyphen"/>ken of? Thou haſt wounded and ſtabb'd the Honourable and Bleſſed Name of God: and ſhould not the Honour of that God that created thee be dear to thee? who hath preſerved thee in a thouſand Dangers, and hath provided for thee in a thouſand Wants, ſhould not his Honour lie near thy Heart? Did not this make <hi>Joſeph</hi> ſay, <hi>How can I do this Wickedneſs, and ſin a<g ref="char:EOLhyphen"/>gainſt God?</hi>
+               </p>
+               <p>
+                  <hi>Fourthly,</hi> Conſcience when awakened reflects upon Times and junctures of Time, in which Perſons have ſinned. There is a great deal in the Time of Sin, as well as the Act of Sin, to reflect upon. Therefore it was taken notice
+<pb n="85" facs="tcp:34607:54"/>of in that black Brand upon <hi>Ahaz:</hi>
+                  <note place="margin">2 Chron, 28.22.</note> 
+                  <hi>This is that King</hi> A<g ref="char:EOLhyphen"/>haz <hi>that ſinned more and more, in the time of his Diſtreſs.</hi> O what a monſtrous thing was it to ſin then? There are three Times that Conſcience takes ſpecial notice to re<g ref="char:EOLhyphen"/>flect upon, when we ſin in them.</p>
+               <p n="1">1. A time of common Ca<g ref="char:EOLhyphen"/>lamity, when God's Judg<g ref="char:EOLhyphen"/>ments are abroad. To ſin when God is ſmiting for Sin, when God ſmites on, and Sinners they ſin on, <hi>They returned not unto the Lord that ſmote them.</hi> O now, cries Conſcience, did not you commit ſuch a Sin in the time of the Plague? in the time of the Fire? How durſt you ſin when God's Sword was drawn, and ſheathed in
+<pb n="86" facs="tcp:34607:55"/>the Bowels of ſo many thou<g ref="char:EOLhyphen"/>ſand Sinners? This was to ſin when the Judge was upon the Bench. And while he was paſſing Sentence againſt poor guilty Malefactors, and O what impudence was this in Sinners!</p>
+               <p n="2">2. A time of Perſonal Af<g ref="char:EOLhyphen"/>fliction. This is a Juncture of Time for an awakened Con<g ref="char:EOLhyphen"/>ſcience to reflect upon, and tell you of, when any of you have laid under the Hands of God; and what! then to lift up your Heel againſt God? This is not only Sinning, but daring Sin, and Conſcience takes notice that that was your Sinning Time, which ſhould have been your Hum<g ref="char:EOLhyphen"/>bling Time for Sin.</p>
+               <p n="3">3. A Time of receiving eminent and particular Mer<g ref="char:EOLhyphen"/>cies
+<pb n="87" facs="tcp:34607:55"/>from God, then to Sin againſt God; O! how will Conſcience take its oppor<g ref="char:EOLhyphen"/>tunity and tell you of it another Day? For <hi>Hezekiah</hi> to ſin againſt God, when God had ſo lately raiſed him up, and recovered him from a Sentence of Death: O what will Conſcience ſay to this, when <hi>Hezekiah</hi> comes to be humbled for it? What! for <hi>David</hi> to ſin after God had brought him through all his Dangers and Difficulties, and put him in poſſeſſion of the Kingdom, for him to ſay, <hi>Thou haſt made my Mountain ſtrong, and I ſhall not be moved;</hi> O how will <hi>David</hi>'s Conſci<g ref="char:EOLhyphen"/>ence reflect upon this another Day!</p>
+               <p n="4">4. When God hath graci<g ref="char:EOLhyphen"/>ouſly viſited the Soul, with
+<pb n="88" facs="tcp:34607:56"/>ſmiles of his Love, then to ſin, Conſcience will be ſure to reflect upon this. To re<g ref="char:EOLhyphen"/>turn to Folly after God hath ſpoken Peace, O! how will Conſcience tell thee of this another Day, and tell thee what Diſingenuity and Ingra<g ref="char:EOLhyphen"/>titude there was in it. Is this a time to ſin? Is not this like a fooliſh People, to requite the Lord with evil, for ſo much Good as you have re<g ref="char:EOLhyphen"/>ceived from him?</p>
+               <p n="5">5. To ſin after thou haſt humbled thy ſelf for Sin, this is a time Conſcience will Re<g ref="char:EOLhyphen"/>flect upon. What will Con<g ref="char:EOLhyphen"/>ſcience ſay to theſe things? Is this thou that lately wert upon thy Knees, bemoaning thy Sin before the Lord? What, thou who haſt ſo late<g ref="char:EOLhyphen"/>ly confeſſed and acknowledg<g ref="char:EOLhyphen"/>ed
+<pb n="89" facs="tcp:34607:56"/>thy Sin, and now running into Sin, yea, into the ſame Sins you have mourned over, and repented of? O! how will Conſcience ſadly animad<g ref="char:EOLhyphen"/>vert upon theſe things, in the day of its dealing with you, poor Sinners!</p>
+               <p>
+                  <hi>Fifthly,</hi> Conſcience when awakened, will Reflect upon loſt means and ſeaſons of Grace. Chriſt conſidered this, when he preached that doleful Sermon to <hi>Jeruſalem: O!</hi>
+                  <note place="margin">Luke 19.29.</note> 
+                  <hi>that thou hadſt known in this thy day, the things that concern thy Peace.</hi> He knew it would cut to the Conſci<g ref="char:EOLhyphen"/>ence to tell them of loſt Sea<g ref="char:EOLhyphen"/>ſons, and loſt Advantages for Heaven and Eternity. And indeed this makes up much of the Torments of Hell. Theſe Reflections upon the
+<pb n="90" facs="tcp:34607:57"/>laſt motions of the Spirit, laſt convictions of Conſcience laſt Sermons, Ordinances, and Sabbaths. Nay, when God comes to awaken Conſcience how doth it reflect upon theſe things in this preſent Life. As one ſaid when a Miniſte<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> came to comfort her, <hi>Call Time again, call Time again.</hi> Implying, ſhe thought it was as impoſſible to apply Come fort to her, as to call time a<g ref="char:EOLhyphen"/>gain. So, poor Sinners, how ſad will this be for you ano<g ref="char:EOLhyphen"/>ther Day, to cry, Call Sab<g ref="char:EOLhyphen"/>baths again, Miniſtry again a day of Grace again, moti<g ref="char:EOLhyphen"/>ons of the Spirit again. Alas (Sirs) now you think theſe things may be dallied and trifled with, and it is indif<g ref="char:EOLhyphen"/>ferent whether you lay hold of ſuch opportunities to im<g ref="char:EOLhyphen"/>prove
+<pb n="91" facs="tcp:34607:57"/>them, or no. O, but when they are gone, how will theſe things ſting? A Man who hath been under good opportunities to arrive at a great Eſtate in the World, and when he is brought by his bad Husbandry and Pro<g ref="char:EOLhyphen"/>digality, to Penury and Po<g ref="char:EOLhyphen"/>verty, O! how doth he then Reflect upon himſelf (if he be ſenſible) and upon his fair Opportunities that now are paſt recalling. O then, what a Mad-man was I? What fair Opportunities have I loſt? Thus it is in this Caſe with Guilty Conſciences, when awakened. O, what a fair way was I once in for Heaven, and eternal Life! What Seaſons had I to enrich my Soul in Grace? O! what a Fool was I, that had ſo ma<g ref="char:EOLhyphen"/>ny
+<pb n="92" facs="tcp:34607:58"/>Prizes put into my Hand, and had not an Heart to make uſe of them! theſe will be ſad Reflections.</p>
+               <p>
+                  <hi>Sixtly,</hi> An awakened Con<g ref="char:EOLhyphen"/>ſcience will Reflect in a day of Affliction, upon the ſad Effects and Conſequences of Sin; what Sin brings along with it, what follows and treads upon the Heels of it.</p>
+               <p n="1">1. Sad effect of Sin Con<g ref="char:EOLhyphen"/>ſcience reflects upon, is God's diſpleaſure. O! who can bear it? Angels could not it caſt them out of Heaven. <hi>Adam</hi> could not, it caſt him out of Paradice: He drove out the Man. Nay, the moſt holy Servants of God could not bear it: It made <hi>David</hi> cry out,<note place="margin">Pſal. 38.3.</note> 
+                  <hi>There was no reſt in his Bones, becauſe of God's An<g ref="char:EOLhyphen"/>ger.</hi> Nay more, It made the
+<pb n="93" facs="tcp:34607:58"/>Lord Jeſus Chriſt cry out, when he endured it for our Sins, <hi>My God, my God, why haſt thou forſaken me?</hi> And, ſays Conſcience, can you bear it? can you ſtand under his Anger? According to thy Power, ſo is thine Anger.</p>
+               <p n="2">2. Conſcience reflects up<g ref="char:EOLhyphen"/>on the Soul's Pollution and Defilement; another ſad ef<g ref="char:EOLhyphen"/>fect of Sin. That a Soul which came out of the Hand of God ſo pure, ſo ſpotleſs a Being, ſhould be ſo deformed and defiled: O, how ſad is this!</p>
+               <p n="3">3. Another ſad effect of Sin, that the awakened Con<g ref="char:EOLhyphen"/>ſcience reflects upon in a day of Affliction, is the withdraw<g ref="char:EOLhyphen"/>ment of God's comfortable Preſence from the Soul. O! how did the Spouſes Conſci<g ref="char:EOLhyphen"/>ence
+<pb n="94" facs="tcp:34607:59"/>Reflect, when ſhe ſaid, <hi>My Beloved hath withdrawn himſelf.</hi> Sin makes God hide himſelf from his deareſt Chil<g ref="char:EOLhyphen"/>dren. And, O what temp<g ref="char:EOLhyphen"/>tations are God's Children expoſed unto, when their Father is withdrawn. O, how eaſily then are they drawn in to think hardly of God, to be jealous of God, to queſtion his Promiſe! I might name many other ſad Effects and Conſequences of Sin, that awakened Conſci<g ref="char:EOLhyphen"/>ences Reflects upon. (But I will forbear).</p>
+               <p>The Third Query is this, What kind of Reflections theſe Reflections of awake<g ref="char:EOLhyphen"/>ned Conſciences are?</p>
+               <p n="1">1. Theſe Reflections are home Reflections. O Sin<g ref="char:EOLhyphen"/>ners! when Conſcience Re<g ref="char:EOLhyphen"/>flects
+<pb n="95" facs="tcp:34607:59"/>and charges it home, (this was the caſe of my Text) it was a home charge, <hi>Verily, we are guilty concern<g ref="char:EOLhyphen"/>ing our Brother.</hi> O, how quick was Conſcience now with them! And ſo when <hi>David</hi> reflected upon his Sin, charged upon him by <hi>Nathan: Thou art the Man,</hi> (ſays <hi>Nathan</hi>). <hi>I have ſin<g ref="char:EOLhyphen"/>eed</hi> (ſays <hi>David</hi>). It may be for the preſent, your Con<g ref="char:EOLhyphen"/>ſciences ſay little to you, are very ſilent; but ſtay un<g ref="char:EOLhyphen"/>til God ſhall awaken them, O then, until your Sin be pardon<g ref="char:EOLhyphen"/>ed, it will be a Terror to you, and cauſe you to medi<g ref="char:EOLhyphen"/>ate Terror. What though this Lion ſleep, day will come that God will rouze him up, and then he will be a Roar<g ref="char:EOLhyphen"/>ing Lion. O, what an home
+<pb n="96" facs="tcp:34607:60"/>Reflection was that of <hi>Judas I have ſinned, in betraying in<g ref="char:EOLhyphen"/>nocent Blood.</hi> And ſurely <hi>Peter</hi>'s Conſcience charged him home, when he went out and wept bitterly.</p>
+               <p n="3">3. Theſe Reflections of a<g ref="char:EOLhyphen"/>wakened Conſciences, they are juſt and righteous Reflec<g ref="char:EOLhyphen"/>tions. O! Conſcience doth not reflect without a Cauſe; doth not accuſe or ſting without a Cauſe. Was then not a Righteous Cauſe for this Reflection in the Conſci<g ref="char:EOLhyphen"/>ences of <hi>Joſeph</hi>'s Brethren. Was there not great Guilt a the bottom? Did <hi>Cain</hi>'s Con<g ref="char:EOLhyphen"/>ſcience afright him without a cauſe? had not he killed h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Brother <hi>Abel?</hi> Did <hi>David</hi> Conſcience ſmite him with out a cauſe, when he cried out, <hi>I have ſinned?</hi> Did <hi>Jud<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi>
+                  <pb n="97" facs="tcp:34607:60"/>his Conſcience torment him without a cauſe, when he cri'd out, <hi>I have ſinned, in betray<g ref="char:EOLhyphen"/>ing Innocent Blood?</hi> Oh Sin<g ref="char:EOLhyphen"/>ners! When you look into your paſt Lives, and turn o<g ref="char:EOLhyphen"/>ver the Book of your Conver<g ref="char:EOLhyphen"/>ſations Page by Page, Leaf by Leaf, and obſerve Page and Margin well, you will ſind both full of cauſes for theſe Reflections: May not you charge your ſelves for this Sin and the other? for this unknown Guilt to the World, and the other? O then you will ſay, it is a righteous thing that Conſci<g ref="char:EOLhyphen"/>ence ſhould Condemn, and that the Sentence there<g ref="char:EOLhyphen"/>of is a juſt and righteous <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>entence. We reade of him that had not on the Wedding Garment, his Mouth was
+<pb n="98" facs="tcp:34607:61"/>ſtopt, he ſtood ſpeechleſs. So will it be in this Day, with all poor guilty Sinners, they will not have a word to ſay for themſelves, why Sentence ſhould not be Executed up<g ref="char:EOLhyphen"/>on them.<note place="margin">Rom. 2.19.</note> Every Mouth muſt be ſtopt, that all the World may become Guilty before God.</p>
+               <p n="3">3. Theſe Reflections are full of Horrour and Dread. Fear naturally reſults from them, and you know Fear hath Torment in it. Theſe Reflections become great Torments to guilty Conſci<g ref="char:EOLhyphen"/>ences; the inward gnawings of this Worm are very terri<g ref="char:EOLhyphen"/>rible. Alas, what can ariſe out of Guilt (Sinners) but Dread and Horror? Guilt we ſay, makes a Man affraid of his own Shadow. O, what
+<pb n="99" facs="tcp:34607:61"/>a torment is this when a Man <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>omes to be dogg'd and haun<g ref="char:EOLhyphen"/>ted where-ever he goes, with with his own guilty Conſci<g ref="char:EOLhyphen"/>ence! He needs no other Ex<g ref="char:EOLhyphen"/>ecutioner, or Tormentor. The <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aſe of <hi>Spira</hi> is a dreadful <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>anding Inſtance. <hi>Herod</hi> heard <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f the Fame of Jeſus, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>id unto his Servants,<note place="margin">Mat. 14.2, 3.</note> 
+                  <hi>This</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> John Baptiſt, <hi>he is riſen <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>m the Dead, therefore migh<g ref="char:EOLhyphen"/>t. Works do ſhew themſelves in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>.</hi> What was the matter <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ith <hi>Herod,</hi> that he was thus <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>tled, and crys it was <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>hn?</hi> He had killed <hi>John,</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d now <hi>John,</hi> though dead, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>lk'd in his guilty Conſci<g ref="char:EOLhyphen"/>ence, and as a <hi>Spectrum</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eadfully affrighted him.</p>
+               <p n="4">4. Theſe Reflections of <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ty awakened Conſcien<g ref="char:EOLhyphen"/>ce are not eaſily quieted.
+<pb n="100" facs="tcp:34607:62"/>Conſcience is not eaſily paci<g ref="char:EOLhyphen"/>fied. <hi>Luther</hi> hath this paſ<g ref="char:EOLhyphen"/>ſage, <hi>It is as hard a thing t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> comfort an afflicted Conſcience<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> as it is to create a World. God</hi> ſays he,<note place="margin">Iſa. 57.19.</note> 
+                  <hi>created the fruits of the Lips, Peace, peace; (viz.)</hi> in his Miniſter's Mouths when they are <hi>Barnabaſſes</hi> Sons of Conſolation to trou<g ref="char:EOLhyphen"/>bled Souls. O! Who ca<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſpeak Peace to a Wounde<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Conſcience, but God? H<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> only can ſay to poor Souls i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> danger of being Shipwrack<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> with theſe Storms of Conſci<g ref="char:EOLhyphen"/>ence's Troubles, <hi>Peace, and b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſtill.</hi> The Lord Jeſus can on<g ref="char:EOLhyphen"/>ly command theſe Wind and Storms to obey him. Thus it was with <hi>David,</hi> th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Lord had ſent <hi>Natha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> the Prophet to him, to te<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> him, God had put away h<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <pb n="101" facs="tcp:34607:62"/>Sin, yet all this would not do, until the Lord told him ſo himſelf; which occaſioned that Prayer of his: <hi>Lord, make the Bones which thou haſt broken, to rejoyce:</hi>
+                  <note place="margin">Pſal. 51.8</note> 
+                  <hi>Make thou me to hear the Voice of Joy and Gladneſs.</hi>
+               </p>
+               <p n="5">5. Theſe Reflections of a<g ref="char:EOLhyphen"/>wakened Conſciences, are ſuch as conſtrain the Sinner to ſeek out for eaſe. Poor Souls now dwell in little eaſe, they are diſquieted and di<g ref="char:EOLhyphen"/>ſtreſſed, and therefore look out for a Remedy. <hi>A wound<g ref="char:EOLhyphen"/>ed Spirit, who can bear?</hi> Wounded Men, you know, groan for eaſe: So do theſe wounded Souls. Hence it was that <hi>Cain,</hi> under the hor<g ref="char:EOLhyphen"/>rour of his awakened Conſci<g ref="char:EOLhyphen"/>ence, begins to build Cities, to divert the rage of his throb<g ref="char:EOLhyphen"/>ing
+<pb n="102" facs="tcp:34607:63"/>Conſcience. Many Sin<g ref="char:EOLhyphen"/>ners, when awakened and troubled, they go to the Mu<g ref="char:EOLhyphen"/>ſick (with <hi>Saul</hi>) to play the evil Spirit down. It is ſaid of <hi>Charles</hi> the <hi>9th,</hi> King of <hi>France,</hi> after that dreadful Maſſacre in <hi>Paris,</hi> which was in his Reign; He never durſt awake out of his ſleep with<g ref="char:EOLhyphen"/>out Muſick. So many go to ſinful Company, and ſinful Recreations, to make uſe of them as a ſleepy Sop, to allay the rage of an accuſing tor<g ref="char:EOLhyphen"/>menting Conſcience, as tho they had a deſign to Conjure down the Guilt that walks in their Conſciences. But now, when a poor Soul is truly a<g ref="char:EOLhyphen"/>wakened with a clear ſight of Guilt in the Glaſs of the Go<g ref="char:EOLhyphen"/>ſpel, O then he begins to pray, to ſeek out after Chriſt,
+<pb n="103" facs="tcp:34607:63"/>to enquire what he ſhall do to be ſaved, to be pardoned. O! how do ſuch poor Souls, like the ſtung <hi>Iſraelites,</hi> un<g ref="char:EOLhyphen"/>der the ſmart and pain of the Wound, run up and down to look towards the Brazen Ser<g ref="char:EOLhyphen"/>pent for Healing? And like thoſe prickt in the Heart, cry out, <hi>Men and Brethren, what ſhall we do?</hi>
+               </p>
+               <p>
+                  <hi>Firſt Reaſon,</hi> Why Con<g ref="char:EOLhyphen"/>ſcience in a day of Affliction, is quick at Reflections: Be<g ref="char:EOLhyphen"/>cauſe days of Affliction, are days of Remembrance. Con<g ref="char:EOLhyphen"/>ſcience ſets Memory now at work, and now Memory turns over the whole paſt Life of a Sinner. O, ſays Conſci<g ref="char:EOLhyphen"/>ence in the day of Diſtreſs, Didſt not thou commit ſuch a Sin at ſuch a time? in ſuch a place? Doſt thou not remem<g ref="char:EOLhyphen"/>ber
+<pb n="104" facs="tcp:34607:64"/>it? And didſt not thou think thou ſhouldſt never hear of it again, though I told thee, and warned thee to the contrary? but now I am come to call thy Faults into re<g ref="char:EOLhyphen"/>membrance this day. In a day of Affliction, Conſcience is our Monitor, and Remem<g ref="char:EOLhyphen"/>brancer. It remembers the Sinner of two things,
+<list>
+                     <item>1. Of his paſt Convic<g ref="char:EOLhyphen"/>tions.</item>
+                     <item>2. Of his broken Reſolu<g ref="char:EOLhyphen"/>tions. And it is upon this ac<g ref="char:EOLhyphen"/>count, that Repentance is called, A remembring of our evil ways.</item>
+                  </list>
+               </p>
+               <p>You have, Sinners, com<g ref="char:EOLhyphen"/>mitted many a Sin, and for<g ref="char:EOLhyphen"/>gotten it, and buried many a piece of Guilt in the grave of Oblivion; and becauſe you had forgotten theſe
+<pb n="105" facs="tcp:34607:64"/>things, you thought God had forgotten them too, and Conſcience had forgotten them, but you will find your ſelves miſtaken. When a day of Affliction comes, then Conſcience will remember you of all, and ſet all in or<g ref="char:EOLhyphen"/>der before your Eyes. <hi>Da<g ref="char:EOLhyphen"/>vid</hi> calls ſome of his Pſalms, <hi>Pſalms of Remembrance;</hi> To call to Remembrance. So Conſcience will ſing you a ſad Song of Remembrance (as I may ſay); it will remem<g ref="char:EOLhyphen"/>ber ſome of you, how often you were Drunk, and where; how often others of you have been Unclean, and where; with all the Circumſtances of matters of Fact.</p>
+               <p>
+                  <hi>Secondly,</hi> Becauſe in a day of Affliction, Conſcience is awakened, at other times it
+<pb n="106" facs="tcp:34607:65"/>is aſleep, and ſo cannot be quick and active. Men lull Conſcience aſleep with their Enjoyments, or with their Affairs and Employments; but now in a day of Afflicti<g ref="char:EOLhyphen"/>on, the Lord takes them off theſe. They then are at lei<g ref="char:EOLhyphen"/>ſure to reckon with their Conſciences: as they awake, they begin to call themſelves to an Account. Afflictions are great Awakeners. It may be, the poor Sinner is like <hi>Peter,</hi> aſleep between two Souldiers, when the Angel came and ſmote him. So Conſcience doth with Sin<g ref="char:EOLhyphen"/>ners. O! how quick is Con<g ref="char:EOLhyphen"/>ſcience with them, when they are awakened? O! what a ſleepy Fit for three quarters of a Year did <hi>David</hi> fall in<g ref="char:EOLhyphen"/>to, until God made uſe of
+<pb n="107" facs="tcp:34607:65"/>Affliction to awaken him? <hi>Joſeph</hi>'s Brethren, what a Lethargy were their Conſci<g ref="char:EOLhyphen"/>ences in for many years toge<g ref="char:EOLhyphen"/>ther, until this Affliction a<g ref="char:EOLhyphen"/>wakened them? And ſo, How did <hi>Manaſſeh</hi> his Afflic<g ref="char:EOLhyphen"/>tions awaken his guilty Con<g ref="char:EOLhyphen"/>ſcience?</p>
+               <p>
+                  <hi>Thirdly,</hi> Becauſe a day of Affliction is a day of ſerious Conſideration; Men go on inconſiderately in the Ruffe of their Proſperity, while they are (as I may ſay) in their hot Blood: but when they conſider with themſelves better, then they change both their Minds and Courſes. <hi>I conſidered my Ways,</hi>
+                  <note place="margin">Pſal. 119.59.</note> 
+                  <hi>and turn<g ref="char:EOLhyphen"/>ed my Feet to thy Teſtimonies.</hi> But now, What brings in this day of Conſideration? Is it not a day of Affliction?
+<pb n="108" facs="tcp:34607:66"/>
+                  <hi>In a day of Adverſity,</hi>
+                  <note place="margin">Eccleſ. 7.14.</note> 
+                  <hi>conſider.</hi> What brought the poor in<g ref="char:EOLhyphen"/>conſiderate Prodigal to a ſtand and ſo to a return, was it not a day of Affliction? His conſideration is expreſt by this: <hi>He came to himſelf.</hi> Now Conſcience being awa<g ref="char:EOLhyphen"/>kened, Sinners begin to come to themſelves, and then they ſay,<note place="margin">Jer. 8.6.</note> 
+                  <hi>What have I done? Whi<g ref="char:EOLhyphen"/>ther have I been going?</hi> O! what will follow upon this Courſe of mine? what will be the effects of this Sin and Guilt? If Men did conſider theſe things, and ask their Souls ſuch Queſtions, how would it be a means to ſtop them in their carreer and courſe of Sin? O now,
+<list>
+                     <item>1. A Sinner begins to think how he hath diſhonour'd God.</item>
+                     <item>2. How he hath diſpleaſed God.</item>
+                     <pb n="109" facs="tcp:34607:66"/>
+                     <item>3. How he hath wounded his own Conſcience.</item>
+                     <item>4. How he hath led others into Sin by his example.</item>
+                     <item>5. How he hath aggrava<g ref="char:EOLhyphen"/>ted his Sin, by ſinning againſt Mercies and Deliverances.</item>
+                  </list>
+               </p>
+               <p>Theſe, and many more, Conſiderations are called over in the Conſcience, when awa<g ref="char:EOLhyphen"/>kened in a day of Diſtreſs and Affliction.</p>
+               <p>
+                  <hi>Fourthly,</hi> Becauſe a day of Affliction, is a Day that puts the Sinner upon a diligent ſearch. O, how quick is Conſcience upon the ſearch! Now Sinners are ſet upon ſearching &amp; trying their ways (with the Church): <hi>Let us ſearch and try our ways, and turn again unto the Lord.</hi>
+                  <note place="margin">Lam. 3.</note> This put <hi>Heman</hi> upon a diligent ſearch: <hi>I communed with my
+<pb n="110" facs="tcp:34607:67"/>own Heart,</hi>
+                  <note place="margin">Pſal. 77.5, 6.</note> 
+                  <hi>and made a dili<g ref="char:EOLhyphen"/>gent ſearch.</hi> As the Woman did ſeek for her loſt Groat, did ſweep the Houſe, and lighted a Candle: So now, the Soul in a day of Affliction, ſeeks and ſearches for this Sin, and the other. Surely (ſays the awakened Conſci<g ref="char:EOLhyphen"/>ence) there is ſome Provoca<g ref="char:EOLhyphen"/>tion, there is ſome Wedge of Gold, ſome allured Thing, ſome right Eye, ſome right Hand, which puts the Lord upon contending with me, and upon thus afflicting of me. Thus <hi>Joſepb</hi>'s Brethren, they ſearch and find out their Guilt in the day of their Diſtreſs and Affliction.</p>
+               <p>
+                  <hi>Fifthly,</hi> Becauſe a day of Affliction, is a Day of plain and impartial dealing with ones own Soul. We are
+<pb n="111" facs="tcp:34607:67"/>prone to be Partial at other times, and flatter our ſelves; but now Conſcience being a<g ref="char:EOLhyphen"/>wakened, it deals faithfully, as the Matter requires. O! now Conſcience in the day of Affliction, tells the Sinner a plain ſtory. Sinner, thou haſt ſinned, and thou canſt not deny it; and thou muſt re<g ref="char:EOLhyphen"/>pent of it, or elſe periſh to all Eternity: <hi>Except you re<g ref="char:EOLhyphen"/>pent, you ſhall likewiſe periſh.</hi> Now this is a plain Sermon; and thus did <hi>Joſeph</hi>'s Brethren, Their Conſciences in their Affliction, told them a very plain Story: <hi>We are verily guilty concerning our Brother,</hi> &amp;c. And, ah Sinners! had not your Conſciences better be plain with you now, than be plain with you in Hell; O what plain Sermons doth Conſci<g ref="char:EOLhyphen"/>ence
+<pb n="112" facs="tcp:34607:68"/>preach to the Damned! You will not, many of you, bear plain Preaching now; But, O remember, what a plain Preacher Conſcience will be when awakened in a day of Affliction!</p>
+               <p>Now we come to the Im<g ref="char:EOLhyphen"/>provement of what hath been ſaid upon all the Doctrinal part.<note place="margin">Applica<g ref="char:EOLhyphen"/>tion.</note>
+               </p>
+               <p>Is it ſo that Conſcience is ſo quick and active in a day of Affliction? Then</p>
+               <p n="1">1. Learn we hence that many Souls have great cauſe to bleſs God for Afflictions. They may ſay (with <hi>David</hi>) <hi>Before they were afflicted,</hi>
+                  <note place="margin">Pſal. 119.67.</note> 
+                  <hi>they went aſtray. Joſeph</hi>'s Bre<g ref="char:EOLhyphen"/>thren (for any thing I know) had died under this Guilt, if God had not brought them into this Diſtreſs. Had not
+<pb n="113" facs="tcp:34607:68"/>
+                  <hi>Manaſſeh</hi> cauſe to bleſs God for his Affliction? They were bleſſed Bryars he was caught <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. Hath not the Lord o<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ened the Ears of many by Affliction? and commanded <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hem to return from Iniquity? Yea, great Perſons, when they have been bound in Fetters,<note place="margin">Job 36.8, 9, 10.</note>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd holden in Cords of Af<g ref="char:EOLhyphen"/>fliction, then God ſheweth <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hem their Work and their Tranſgreſſions, that they have exceeded. O! what a Mercy was it to the Church, when God hedged up her. Ways with Thorns? Is it not a mer<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y to be kept from drowning <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> a Pit, though it be by a Thorn Hedge? How many <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>inners had gone on in Sin, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd had been drowned in <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ell, if God had not ſtopt <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hem by a ſharp Thorn Hedg
+<pb n="114" facs="tcp:34607:69"/>of Affliction? O! What would have become of the Prodigal in a far Country, it the Lord had not found him out by Affliction? It is ſaid There is an antipathy betwixt the Serpent and the Nightin<g ref="char:EOLhyphen"/>gal; and while the Serpen<g ref="char:EOLhyphen"/>lies in wait for the Nightin<g ref="char:EOLhyphen"/>gal, ſhe ſets a ſharp Thorn to her Breſt, leſt ſhe ſhould ſleep and ſo be ſurprized, and when ever ſhe is heavy, the Thorn pricks her, and make her ſing with renewed Chear<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> fulneſs. O poor Souls! how many have cauſe to bleſs God for putting a ſharp Thorn to their Breſts, to keep them a<g ref="char:EOLhyphen"/>wake, leſt they ſhould be ſur<g ref="char:EOLhyphen"/>prized by the wily Serpent that lies in wait for precious Souls.</p>
+               <p n="2">2. Learn we hence not to
+<pb n="115" facs="tcp:34607:69"/>conclude, becauſe Conſci<g ref="char:EOLhyphen"/>ence ſleeps at preſent, that it will always do ſo. Though it ſleep now, a day of Afflic<g ref="char:EOLhyphen"/>tion will come, and then it may awake, and tell you ma<g ref="char:EOLhyphen"/>ny a ſad ſtory. You think, poor Sinners, all is well af<g ref="char:EOLhyphen"/>ter the Fact is committed, if Conſcience ſay nothing to you: But alas, the worſt is to come, the Reckoning Day is yet to come. Stay until God bring thee into the Bry<g ref="char:EOLhyphen"/>ars, or upon a Death-bed, and it may be thou wilt then tell another ſtory: The lon<g ref="char:EOLhyphen"/>ger Conſcience ſleeps, the louder will its Noiſe be when once it awakes. But what if it do not awake at all here? Then it will awake hereaf<g ref="char:EOLhyphen"/>ter, it will awake in Hell. There is not one ſleepy Con<g ref="char:EOLhyphen"/>ſcience
+<pb n="116" facs="tcp:34607:70"/>ſcience there. But, O Sin<g ref="char:EOLhyphen"/>ners! had not your Conſci<g ref="char:EOLhyphen"/>ences ten thouſand times bet<g ref="char:EOLhyphen"/>ter awake here, when and while there is Hope?</p>
+               <p n="3">3. Learn we hence what a ſad Judgment a ſeared Con<g ref="char:EOLhyphen"/>ſcience is, which makes no Reflection at all; which ne<g ref="char:EOLhyphen"/>ver ſmites a poor Sinner, but lets him run headlong to Hell. O what Wrath like this! what Plague like this! to have an hardned Conſcience, a Conſcience paſt feeling? Such as can boaſt of Sinning, and their Conſcience, never trouble them, God hath ſaid to ſuch, as once to <hi>Ephraim, He is joyned to Idols,</hi>
+                  <note place="margin">Hoſ. 4.17.</note> 
+                  <hi>let him alone.</hi> And, O what a Judg<g ref="char:EOLhyphen"/>ment is this, for God to wink at Sinners Damnation! (as <hi>Luther</hi> ſays) <hi>Wo to that
+<pb n="117" facs="tcp:34607:70"/>Man whoſe Sins God winks at.</hi>
+               </p>
+               <p n="4">4. Learn we hence, what a Mercy a tender Conſcience is; a Conſcience that reflects in a day of Affliction, that ſmites a Man for what he doth. Theſe Smitings and Reflections are great Mercies, for they are in order to bring Souls to Repentance, where<g ref="char:EOLhyphen"/>as you might elſe have died in your Guilt unpardoned. O! Bleſs God when your Conſciences recoil upon you, and tell you, you have Sinned. It was the commen<g ref="char:EOLhyphen"/>dation of <hi>Joſiah,</hi> that <hi>he had a tender Heart.</hi>
+                  <note place="margin">2 Chron. 34.27.</note>
+               </p>
+               <p n="5">5. Learn we hence the Reaſon why many Sinners have confeſſed that under Affliction, that they never did, nor never would confeſs
+<pb n="118" facs="tcp:34607:71"/>before. Conſcience would not let them alone, they could not be quiet. Guilt was like Poyſon to them, if the Party do not Vomit, he dies for it; all comes out in a day of Af<g ref="char:EOLhyphen"/>fliction, that lay hid before. Afflictions are great Diſco<g ref="char:EOLhyphen"/>verers. Nay, how do ſome guilty Sinners in this caſe, like Sea-men, that caſt that over-board in a Storm, that they wiſh for again in a Calm. O, do not many confeſs and diſcover that in a ſtorm of Conſcience, that they wiſh they had concealed and kept in? Horror of Con<g ref="char:EOLhyphen"/>ſcience extorts many a Con<g ref="char:EOLhyphen"/>feſſion from guilty Sinners.</p>
+               <p>
+                  <hi>The ſecond Uſe.</hi> Is it ſo that Conſcience is very quick and active in its Reflections
+<pb n="119" facs="tcp:34607:71"/>in a day of Diſtreſs and Af<g ref="char:EOLhyphen"/>fliction? Then it is a word of Caution:</p>
+               <p n="1">1. Take heed of not hear<g ref="char:EOLhyphen"/>tening in a day of Affliction <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o the voice of Conſcience. O, take heed of turning a deaf Ear to a ſpeaking Con<g ref="char:EOLhyphen"/>ſcience! If ever it will ſpeak in this Life, it will ſpeak then when thou art in a day of Affliction. Do not as theſe Brethren did, who hear<g ref="char:EOLhyphen"/>tened not to the anguiſh of their Brother's Soul, when he beſought them. O, do not ſo with your Conſciences! O, do not ſay in this matter, as he did to <hi>Paul, Come again at a more convenient time, and I will hear thee.</hi> O poor Sin<g ref="char:EOLhyphen"/>ners! there can be no more convenient time in the World than a day of Affliction.</p>
+               <pb n="120" facs="tcp:34607:72"/>
+               <p n="1">1. Sinners, know if you hear it not now, it may be it will ſpeak no more. Hear<g ref="char:EOLhyphen"/>ken to it while it is to Day the Oracle will be ſilent to Morrow. O! What if this ſhould be the laſt time, the laſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> words that ever your Conſci<g ref="char:EOLhyphen"/>ence will ſpeak to you, and yet you ſhould be deaf to it would not this be ſad?</p>
+               <p n="2">2. Sinners, what if th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> next time that Conſcienc<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſhould ſpeak to you, it ſhould be in another World? What i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thou ſhouldſt hear a voic<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> from the Damned, ſay, a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> was ſaid to <hi>Saul, To Morrow thou ſhalt be with us?</hi> What if thou ſhouldſt not live til<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to Morrow, and thou be dea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to Conſcience to day? Had not you better hear you<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Conſciences now, than hea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> them in Hell?</p>
+               <pb n="121" facs="tcp:34607:72"/>
+               <p n="3">3. Sinners, know the Voice of Conſcience is the Voice of God, it hath its Commiſſion from God. He hath bid Conſcience ſpeak to you, convince you, warn you, caution you, ſmite you. Go (ſays God) to Conſci<g ref="char:EOLhyphen"/>ence, and talk with ſuch a poor Sinner, who hath wron<g ref="char:EOLhyphen"/>ged and wounded his own Soul, and diſhonoured my Name, and warn him from <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e: And tell him from Me, Except he repent, he ſhall <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eriſh in his Sins. And will <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ou refuſe to hear ſuch a <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>eſſage from God in a day <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f Affliction?</p>
+               <p n="4">4. Sinners, know this, It <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ill aggravate your Guilt exceedingly, to be deaf to <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e Voice of Conſcience in a <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y of Affliction. Indeed
+<pb n="122" facs="tcp:34607:73"/>it is ſo at any time, but much more in a day of Diſtreſs. Such Reflections as you have turned a deaf Ear to, will be great Aggravations againſt you another day.<note place="margin">John 15.22.</note> 
+                  <hi>If I had not come and ſpoken to them</hi> (ſays Chriſt) <hi>they had not had Sin.</hi> Their Sin had not been ſo cir<g ref="char:EOLhyphen"/>cumſtantiated; as may be ſaid in this caſe. If Conſci<g ref="char:EOLhyphen"/>ence had not Reflected upon you, convinced you, repro<g ref="char:EOLhyphen"/>ved you, you had not had Sin, but now your Sin re<g ref="char:EOLhyphen"/>mains.</p>
+               <p n="5">5. Sinners, if you hear<g ref="char:EOLhyphen"/>ken not unto your Conſcien<g ref="char:EOLhyphen"/>ces in a day of Diſtreſs, it i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> an argument you are hardned in your Sins; if thus deaf<g ref="char:EOLhyphen"/>ned, then hardned: If <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> deafned Wretch, thou wil<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> prove an hardned Wretch
+<pb n="123" facs="tcp:34607:73"/>O now, if Sinners would put all theſe together, they would ſee need of this Caution, to take heed leſt they ſhould turn a deaf Ear to Conſci<g ref="char:EOLhyphen"/>ence in a day of Diſtreſs.</p>
+               <p>Second Branch of the Caution. Take heed of ſti<g ref="char:EOLhyphen"/>fling and ſtrangling the Re<g ref="char:EOLhyphen"/>flection of Conſcience in a day of Affliction: This is very dangerous, and yet very ordinary. <hi>The Lord made Man Righteous, but he hath found out many Inventi<g ref="char:EOLhyphen"/>ons.</hi> And ſome of theſe In<g ref="char:EOLhyphen"/>ventions are to ſtiſle and ſtrangle Conſcience, to over<g ref="char:EOLhyphen"/>lay the Reflections of awake<g ref="char:EOLhyphen"/>ned Conſcience; as the Wo<g ref="char:EOLhyphen"/>man overlaid the Child. O, how many Sinners have over<g ref="char:EOLhyphen"/>laid their Convictions! Some go to their Comforts, ſome
+<pb n="124" facs="tcp:34607:74"/>to their Cares, ſome to their Pleaſures, and all to ſmother Conſcience. Some Sinners take theſe following Courſes to murder their Convictions.</p>
+               <p n="1">1. They run further into Sin. Will this ever prove a Remedy? Will not this make the Wound to bleed ſo much the more? To run into ſinful Company when wounded in your Conſcien<g ref="char:EOLhyphen"/>ces, will not this inflame the Reckoning? Is not this to run ſo much the more upon the ſcore with God? O, Sin<g ref="char:EOLhyphen"/>ners, let me tell you, all theſe Arrears muſt at the long run be reckoned for.</p>
+               <p n="2">2. Others they run to lawful Comforts and Enjoy<g ref="char:EOLhyphen"/>ments, and ſo labour to ſtifle the Reflections of their guil<g ref="char:EOLhyphen"/>ty Conſciences.</p>
+               <pb n="125" facs="tcp:34607:74"/>
+               <p n="3">3. Others they run to their lawful Employments, as <hi>Cain</hi> did to build Cities; ſo ſome go to their Trades to their Shops, on purpoſe to drown the convictions of their own guilty Conſciences.</p>
+               <p n="4">4. Others go to their ſin<g ref="char:EOLhyphen"/>ful Recreations, Carding, and Dicing, and Gaming.</p>
+               <p n="5">5. Others make Charms of their Duties and Forms, as <hi>Papiſts</hi> go to their <hi>[Pater Noſters],</hi> and their <hi>[Ave Marys];</hi> nay may not this piece of refined Popery be in the Heart of ſuch as call themſelves <hi>Proteſtants?</hi> But alas, all theſe cannot bear down an awakened Conſci<g ref="char:EOLhyphen"/>ence when God ſets Guilt on.</p>
+               <p>
+                  <hi>The Third Uſe,</hi> Is a word
+<pb n="126" facs="tcp:34607:75"/>of Exhortation to poor guil<g ref="char:EOLhyphen"/>ty Sinners: O! then yield an Ear to the Reflecti<g ref="char:EOLhyphen"/>ons of your own Conſciences. Many a Man's Conſcience cannot be heard by him; it checks him, and chides him, and reproves him, but yet all this while the Sinner ſtops his Ear, as the deaf Adder, of which ſome write, That ſhe claps one Ear to the Earth, and covers the other with her Tail. O, hear Sinners, then what Conſcience hath to ſay. Hearken to the Preacher in your Boſoms. Turn you a<g ref="char:EOLhyphen"/>bout, Sinners, once before you die, and liſten to this Preacher.</p>
+               <p n="1">1. Sinners, if you will not hear it now, you muſt hear it whether you will or no here<g ref="char:EOLhyphen"/>after: And, O how ſad will
+<pb n="127" facs="tcp:34607:75"/>it be to hear it there, <hi>Where the Worm never dies, and the Fire never goes out.</hi> This Worm is the guilty Conſci<g ref="char:EOLhyphen"/>ence, which Sinners muſt hear in Hell, if they will not hear it here. Guilty Con<g ref="char:EOLhyphen"/>ſciences preach in Hell, and the Sermon is as long as Eter<g ref="char:EOLhyphen"/>nity it ſelf;<note place="margin">Maak 9.44.</note> and happy were the Damned, if they could run away from theſe Sermons. O Sinners! you cannot ſtop your Ears in the other World againſt your guilty Conſci<g ref="char:EOLhyphen"/>ences, as you do in this.</p>
+               <p n="2">2. Sinners, hearken to the Reflections of your own Con<g ref="char:EOLhyphen"/>ſciences; for your hearing them will be in order to the getting of your Sins pardon<g ref="char:EOLhyphen"/>ed. Its Reflections are in order to your Repentance, and your Repentance will be
+<pb n="128" facs="tcp:34607:76"/>in order to your Remiſſion. They are both put together, and preached in the Name of Chriſt together: And would not you be glad to have your Sins pardoned? Would not you be glad to have your Sins waſhed away in the Blood of Chriſt? Would not you be glad to have this heavy and inſupportable bur<g ref="char:EOLhyphen"/>den of Guilt removed off the back of your Conſciences? Are your Sins gone over your Heads as a Burden, yea, as too heavy a Burden for you to bear, and would not you rejoyce to be led to Safety and Reſt, under all your Loads and Preſſures?</p>
+               <p n="3">3. Be ſure you attend to the Reflections of your Conſci<g ref="char:EOLhyphen"/>ences, for the Rod joyns iſſue with Conſcience; the Rod
+<pb n="129" facs="tcp:34607:76"/>ſets Conſcience on work, and they preach the ſame <hi>Doctrine.</hi> Therefore we are called, and ſtrictly charged to hear the Rod. It may be, Sinners,<note place="margin">Mic. 6.9.</note> God hath tried other Preach<g ref="char:EOLhyphen"/>ers, and they have done little good, to make you ſenſible of your Guilt, then God commiſſions theſe Preachers, Conſcience, and the Rod. If a Man cannot come abroad and hear a Miniſter, then Af<g ref="char:EOLhyphen"/>fliction ſhall preach to him at Home. Now the Rod is aſ<g ref="char:EOLhyphen"/>ſiſtant to Conſcience,<note place="margin">Job 24.13.</note> the Preacher in your Boſoms.</p>
+               <p n="4">4. Sinners, be not deaf to the Reflections of your Conſciences; this is to ſin a<g ref="char:EOLhyphen"/>gainſt your Light, nay, to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ebel againſt your Light. And is not this ſad? and the guilt of this Rebellion
+<pb n="130" facs="tcp:34607:77"/>you will be charged with an<g ref="char:EOLhyphen"/>other day.</p>
+               <p n="5">5. (Poor Sinners!) Be not deaf to the Reflections of your own Conſciences; uſu<g ref="char:EOLhyphen"/>ally God follows ſuch with his ſevereſt Judgments.</p>
+               <p n="1">1. Sometimes Temporal. Many times God makes that threatning good upon ſuch: <hi>I will wound the hoary Scalp of every one that goes on in his Treſpaſſes.</hi>
+                  <note place="margin">Pſal. 68.21.</note> If Men will walk on in their Sins, contrary to all checks and convictions of Conſcience, let them look for ſome ſevere blow of the Hand of God upon them, ſooner or later; for tho the Sentence be not ſpeedily ex<g ref="char:EOLhyphen"/>ecuted, it is not ſaid, it ne<g ref="char:EOLhyphen"/>ver ſhall. Tho Execution day be for a while deferred yet it will come.</p>
+               <pb n="131" facs="tcp:34607:77"/>
+               <p n="2">2. Spiritual Judgments, which are the worſt and ſad<g ref="char:EOLhyphen"/>deſt of Judgments. Many times Sinners deaf to their Conſciences, are given up to a ſeared Conſcience, to a re<g ref="char:EOLhyphen"/>probate Mind, to vile Affec<g ref="char:EOLhyphen"/>tion, to their own Luſts, to hardneſs of Heart: And is not the judicially hardned Sinner, the half-damned Sin<g ref="char:EOLhyphen"/>ner?</p>
+               <p>The Second Branch of Ex<g ref="char:EOLhyphen"/>hortation is, To ſuch as have Reflecting tender Conſcien<g ref="char:EOLhyphen"/>ces. O then, bleſs the Lord for ſuch awakened Conſci<g ref="char:EOLhyphen"/>ences! It is a greater Mercy than you think of, to have ſuch a Monitor and Remem<g ref="char:EOLhyphen"/>brancer in your Boſoms.</p>
+               <p n="1">1. Is it not a Mercy to be way-laid in a ſinful Courſe? To be prevented in Sin? To
+<pb n="132" facs="tcp:34607:78"/>be ſtopt in a Carreer and full Gallop for Hell? This, this is the end why God ſets Con<g ref="char:EOLhyphen"/>ſcience at work with a poor Sinner; Had not many poor Sinners run headlong to utter Deſtruction and Damnation elſe. May not many a poor Sinner ſay to Conſcience, as <hi>David</hi> did to <hi>Abigail, Bleſſed be the God of</hi> Iſrael,<note place="margin">1 Sam. 25.32, 33.</note> 
+                  <hi>that ſent thee this day, to prevent me from ſhedding innocent Blood.</hi> When thou haſt had rebukes of Conſcience, haſt thou not ſaid,<note place="margin">Numb. 22.34.</note> as <hi>Balaam</hi> to the Angel, in his way to ſtop him, <hi>If my way be perverſe before the Lord, and diſpleaſe thee, I will get me back again.</hi> And is not this a Mercy?</p>
+               <p n="2">2. Is it not a Mercy to be raiſed to Re entance after falling into Sin? The Sinner's
+<pb n="133" facs="tcp:34607:78"/>Sinning is his Fall, the Sin<g ref="char:EOLhyphen"/>ner's Repentance is his Ri<g ref="char:EOLhyphen"/>ſing. And are not all Con<g ref="char:EOLhyphen"/>ſcience's Reflections, when it is awakened in order to Re<g ref="char:EOLhyphen"/>pentance? (as hath been al<g ref="char:EOLhyphen"/>ready hinted): and is not this a Mercy to be pluckt as a Firebrand out of the midſt of the burning? O! how doth Conſcience give many a pull at ſome Sinners, to get them out of the Fire, leſt it ſhould prove the Fire that never goes out!</p>
+               <p n="3">3. Is not this a Mercy to have thy Soul lie in the way of a Pardon? Canſt thou, O poor Sinner! expect Remiſ<g ref="char:EOLhyphen"/>ſion without Repentance? Haſt thou any Promiſe for it in all the Bible? Produce it if thou canſt? O! whoever told thee ſo, but Satan and
+<pb n="134" facs="tcp:34607:79"/>thy own deluding Heart? Do not all Offenders that receive Pardons from their Princes, receive them upon their Knees? Whither is it thy a<g ref="char:EOLhyphen"/>wakened guilty Conſcience would ſend thee, but to the King of <hi>Iſrael,</hi> that <hi>Merciful King,</hi> with Sackcloth upon thy Loins, and an Halter a<g ref="char:EOLhyphen"/>bout thy Neck, in order to the receiving of thy Pardon?</p>
+               <p>Third Branch of the Ex<g ref="char:EOLhyphen"/>hortation. O then, bleſs the Lord for days of Affliction and Diſtreſs! Becauſe theſe are the eſpecial times when Conſcience makes ſuch q <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ck Reflections upon Souls. Are not ſuch afflictions great Mer<g ref="char:EOLhyphen"/>cies, as are ſanctified means in the Hand of God, to awaken poor guilty Souls? Had not you better be awakened by
+<pb n="135" facs="tcp:34607:79"/>Afflictions, than periſh in your Sins? O, how many poor Souls had run headlong to Hell, if a Thorn Hedg of ſmarting Affliction, had not ſtopt them? (as hath been no<g ref="char:EOLhyphen"/>ted already) Are not Af<g ref="char:EOLhyphen"/>flictions Mercies which are means to awaken ſleepy Con<g ref="char:EOLhyphen"/>ſciences, which otherwiſe might have ſlept on to Hell elſe? Is it not a Mercy to be rouzed out of our Security? Suppoſe a Man ſleep upon the Bank of the River, had not he been better awakened, tho it be by pinching, than ſleep on until he drop in and be Drowned? Is not this the Caſe? There are many poor Souls that lie aſleep on the brink of the Pit, one turn by Death on the other ſide, and the Sinner is gone, and gone for ever.</p>
+               <pb n="136" facs="tcp:34607:80"/>
+               <p>But, me-thinks, I hear a poor Soul ſay, What ſhall I do? what Courſe ſhall I take? The guilt of my Conſcience lies like an heavy Load and Weight upon me. I am dogg'd with the ſenſe of my guilt Day and Night. My Sin is ever before me. Let ſuch troubled Conſciences take theſe Directions.</p>
+               <p n="1">1. Freely confeſs thy guilt to God. Thus <hi>Joſeph</hi>'s Bre<g ref="char:EOLhyphen"/>thren did in the day of their Diſtreſs. Thus all Conſci<g ref="char:EOLhyphen"/>ences when wounded, ſhould bleed by Confeſſion. Thus <hi>David: I have ſinned,</hi> &amp;c. Thus the poor Prodigal: <hi>Fa<g ref="char:EOLhyphen"/>ther, I have ſinned againſt Heaven, and againſt thee,</hi> &amp;c. The Promiſe runs to confeſ<g ref="char:EOLhyphen"/>ſion of Sin:<note place="margin">Prov. 28.13.</note> 
+                  <hi>He that confeſ<g ref="char:EOLhyphen"/>ſeth, and forſaketh his Sin,
+<pb n="137" facs="tcp:34607:80"/>ſhall find Mercy.</hi>
+                  <note place="margin">1 John 1.9.</note> 
+                  <hi>If we con<g ref="char:EOLhyphen"/>feſs our Sins, God is Faithful and Juſt to forgive us our Sins.</hi>
+               </p>
+               <p n="2">2. Be much upon your Knees, praying for Pardon. O, what will make a Man pray, if ſenſe of Guilt will <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ot! Need any put words <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nto the Mouth of a condem<g ref="char:EOLhyphen"/>ned Malefactor, to beg the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>udge to be good unto him? How ready is he to cry, Good <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y Lord, have Mercy? O, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat Petitioning will there <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e to the Judge! O, poor <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uilty Sinner, ſee this Courſe <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ken by <hi>David; Lord, have <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>dercy upon me,</hi> &amp;c.</p>
+               <p n="3">3. O, run believingly to <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e Blood of Chriſt! Your <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>onfeſſions, your Prayers, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ur Tears, will not do with<g ref="char:EOLhyphen"/>out the Blood of Chriſt; thou
+<pb n="138" facs="tcp:34607:81"/>muſt get further <hi>(viz.)</hi> To the Blood of Sprinkling. This is the Blood that cleanſeth from all Sin, and all Unrigh<g ref="char:EOLhyphen"/>teouſneſs. Here, here is the Fountain for guilty and for filthy Souls to waſh in.</p>
+               <p n="4">4. Defer not your Repen<g ref="char:EOLhyphen"/>tance, this is dangerous when under ſenſe of Guilt. You can ſay in other Caſes, there is danger in delays: O, why do not you ſay ſo in this? O, poor Sinners, ſleep not in your Guilt! A wounded Spi<g ref="char:EOLhyphen"/>rit muſt be taken betimes, a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> well as a Wound in the Body the Wound will get win<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> elſe, and will feſter; thi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> will make dreadful work i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> once Guilt gangreen and fe<g ref="char:EOLhyphen"/>ſter. O, how hard will gangreen'd Conſcience be t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Cure.</p>
+               <pb n="139" facs="tcp:34607:81"/>
+               <p n="5">5. Direction is, Lay hold by an hand of Faith, upon your precious Promiſes in the Goſpel held out to you. O, poor guilty Sinners are all for application of Threatnings, and alas, this makes the Wound deeper and wider. O, how do ſuch Sinners when they neglect Goſpel-Pro<g ref="char:EOLhyphen"/>miſes! Hath Chriſt purcha<g ref="char:EOLhyphen"/>ſed ſuch precious Promiſes to lie by you? O, what a ſin is Unbelief, to null the Pro<g ref="char:EOLhyphen"/>miſes of God! to make them void, and of none effect. Are theſe Cordials provided for Sin-ſick Souls, and will they not ſo much as taſte of them? Will not God take this ill at your Hands? Is not a Go<g ref="char:EOLhyphen"/>ſpel-Promiſe, a proper Pla<g ref="char:EOLhyphen"/>ſter for a wounded Conſci<g ref="char:EOLhyphen"/>ence? O, that all guilty Sin<g ref="char:EOLhyphen"/>ners
+<pb n="140" facs="tcp:34607:82"/>were well ſtudied in Go<g ref="char:EOLhyphen"/>ſpel-Promiſes! Might not they then eſpie a door of Hope,<note place="margin">Iſa. 1.</note> concerning their par<g ref="char:EOLhyphen"/>don of Sin and Guilt? <hi>Yea, tho their Sins were as Scarlet,</hi> (ſuch were <hi>Joſeph</hi>'s Brethren, in my Text) <hi>yet they ſhould be as white as Snow. And the they were as Crimſon, they ſhould be as white as Wooll</hi> O, what a Mercy, poor Sin<g ref="char:EOLhyphen"/>ners, would this be, to be a<g ref="char:EOLhyphen"/>wakened by the Reflections of your own guilty Conſci<g ref="char:EOLhyphen"/>ences in a day of Affliction and for all to end and iſſue in Remiſſion and Pardon!</p>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:34607:82"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
